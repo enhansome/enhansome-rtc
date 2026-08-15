@@ -50,7 +50,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-13T19:22:30Z",
+            "last_commit": "2026-08-14T11:11:08Z",
             "owner": "sipwise",
             "repo": "rtpengine",
             "stars": 966
@@ -132,7 +132,7 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T21:19:55Z",
+            "last_commit": "2026-08-14T16:41:52Z",
             "owner": "sipcapture",
             "repo": "homer",
             "stars": 2007
@@ -146,7 +146,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-11T07:21:20Z",
+            "last_commit": "2026-08-15T05:45:23Z",
             "owner": "irontec",
             "repo": "sngrep",
             "stars": 1203
@@ -259,7 +259,7 @@
             "last_commit": "2026-07-16T00:19:18Z",
             "owner": "fonoster",
             "repo": "fonoster",
-            "stars": 8077
+            "stars": 8078
           }
         },
         {
@@ -273,7 +273,7 @@
             "last_commit": "2026-05-31T02:00:32Z",
             "owner": "SaynaAI",
             "repo": "sayna",
-            "stars": 302
+            "stars": 308
           }
         },
         {
@@ -374,7 +374,7 @@
             "last_commit": "2026-08-07T22:37:07Z",
             "owner": "paullouisageneau",
             "repo": "libdatachannel",
-            "stars": 2702
+            "stars": 2703
           }
         },
         {
@@ -458,7 +458,7 @@
             "last_commit": "2026-08-03T21:15:30Z",
             "owner": "freeswitch",
             "repo": "sofia-sip",
-            "stars": 348
+            "stars": 349
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2026-07-17T08:17:35Z",
             "owner": "aiortc",
             "repo": "aiortc",
-            "stars": 5084
+            "stars": 5085
           }
         },
         {
@@ -622,7 +622,7 @@
             "last_commit": "2026-08-13T00:03:42Z",
             "owner": "webrtc-rs",
             "repo": "webrtc",
-            "stars": 5113
+            "stars": 5114
           }
         },
         {
@@ -656,7 +656,7 @@
             "last_commit": "2026-03-21T11:14:33Z",
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 3977
+            "stars": 3978
           }
         },
         {
@@ -670,7 +670,7 @@
             "last_commit": "2026-08-08T13:24:29Z",
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 987
+            "stars": 986
           }
         },
         {
@@ -739,7 +739,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:56:23.729Z",
+    "last_updated": "2026-08-15T10:20:16.888Z",
     "original_repository": "rtckit/awesome-rtc",
     "original_repository_sha": "ffdeda8737987b1a1ce305c6089552942c274a3a",
     "enhanced_repository": "enhansome/enhansome-rtc",
