@@ -58,7 +58,7 @@
 
 ### STUN/TURN
 
-* [coturn](https://github.com/coturn/coturn) ⭐ 14,310 | 🐛 317 | 🌐 C | 📅 2026-08-18 - Fully featured TURN/STUN server supporting multiple platforms.
+* [coturn](https://github.com/coturn/coturn) ⭐ 14,315 | 🐛 317 | 🌐 C | 📅 2026-08-18 - Fully featured TURN/STUN server supporting multiple platforms.
 * [STUNTMAN](https://github.com/jselbie/stunserver) ⭐ 1,609 | 🐛 13 | 🌐 C++ | 📅 2026-05-12 - RFC compliant open source STUN implementation.
 
   ## Operations
@@ -67,7 +67,7 @@
 
 ### Monitoring
 
-* [HOMER](https://github.com/sipcapture/homer) ⭐ 2,008 | 🐛 1 | 🌐 Go | 📅 2026-08-19 - Multi-protocol capturing and monitoring framework for RTC.
+* [HOMER](https://github.com/sipcapture/homer) ⭐ 2,007 | 🐛 2 | 🌐 Go | 📅 2026-08-20 - Multi-protocol capturing and monitoring framework for RTC.
 * [sngrep](https://github.com/irontec/sngrep) ⭐ 1,203 | 🐛 73 | 🌐 C | 📅 2026-08-17 - Terminal based SIP flow viewer.
 * [WebRTC Troubleshooter](https://github.com/webrtc/testrtc) ⚠️ Archived - Self-hosted one stop client-side WebRTC troubleshooter.
 * [sipgrep](https://github.com/sipcapture/sipgrep) ⭐ 177 | 🐛 6 | 🌐 C | 📅 2025-09-10 - Console tool for sniffing, capturing and exploring SIP traffic.
@@ -88,8 +88,8 @@
 
 ### Web/API Interfaces
 
-* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,079 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-18 - Telecommunication stack built with Node.js.
-* [Sayna](https://github.com/SaynaAI/sayna) ⭐ 308 | 🐛 0 | 🌐 Rust | 📅 2026-05-31 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
+* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,080 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-18 - Telecommunication stack built with Node.js.
+* [Sayna](https://github.com/SaynaAI/sayna) ⭐ 309 | 🐛 0 | 🌐 Rust | 📅 2026-05-31 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 226 | 🐛 98 | 🌐 PHP | 📅 2026-08-17 - Multitenant solution for VoIP telephony providers.
 * [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
 * [Kazoo](https://www.2600hz.org) - Carrier-grade VoIP API platform using FreeSWITCH and Kamailio.
@@ -196,10 +196,10 @@
 
 ## Related Lists
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 3,983 | 🐛 2 | 📅 2026-03-21 - Research resources in the 3G/4G/5G Cellular security space.
-* [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 988 | 🐛 1 | 🌐 Python | 📅 2026-08-16 - Telco resources and projects.
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21 - Research resources in the 3G/4G/5G Cellular security space.
+* [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 988 | 🐛 0 | 🌐 Python | 📅 2026-08-16 - Telco resources and projects.
 * [Awesome 5G](https://github.com/calee0219/awesome-5g) ⭐ 909 | 🐛 6 | 🌐 Shell | 📅 2026-02-03 - 5G frameworks, libraries, software and resources.
-* [Awesome RTC Hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) ⭐ 549 | 🐛 0 | 📅 2026-06-30 - Real Time Communications hacking and penetration testing resources.
+* [Awesome RTC Hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) ⭐ 550 | 🐛 0 | 📅 2026-06-30 - Real Time Communications hacking and penetration testing resources.
 * [SIP Resources](https://github.com/miconda/sip-resources) ⭐ 260 | 🐛 1 | 📅 2026-04-11 - Useful SIP resources curated by Kamailio's head developer.
 * [Awesome RIPT](https://github.com/rtckit/awesome-ript) ⭐ 31 | 🐛 0 | 📅 2020-10-30 - Real Time Internet Peering for Telephony.
 
@@ -209,4 +209,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
