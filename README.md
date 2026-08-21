@@ -41,14 +41,14 @@
 ### SIP Servers
 
 * [Sippy B2BUA](https://github.com/sippy/b2bua) ⭐ 201 | 🐛 28 | 🌐 Python | 📅 2026-07-19 - Back-to-back user agent server written in Python.
-* [Flexisip](https://github.com/BelledonneCommunications/flexisip) ⭐ 186 | 🐛 31 | 🌐 C++ | 📅 2026-08-11 - SIP server suite comprising proxy, presence and group chat functions.
+* [Flexisip](https://github.com/BelledonneCommunications/flexisip) ⭐ 186 | 🐛 31 | 🌐 C++ | 📅 2026-08-20 - SIP server suite comprising proxy, presence and group chat functions.
 * [Kamailio](http://www.kamailio.org) - Open source SIP server widely deployed by carriers and providers. Formerly known as OpenSER.
 * [OpenSIPS](http://www.opensips.org) - Open source SIP server, tracing its roots in OpenSER (presently Kamailio).
 * [Routr](https://routr.io) - Lightweight SIP proxy, location server, and registrar written in Node.js.
 
 ### Media Servers
 
-* [RTP:Engine](https://github.com/sipwise/rtpengine) ⭐ 968 | 🐛 101 | 🌐 C | 📅 2026-08-17 - RTP and UDP based media traffic proxy, usable as a kernel module.
+* [RTP:Engine](https://github.com/sipwise/rtpengine) ⭐ 969 | 🐛 103 | 🌐 C | 📅 2026-08-21 - RTP and UDP based media traffic proxy, usable as a kernel module.
 * [SEMS](https://github.com/sems-server/sems) ⭐ 188 | 🐛 16 | 🌐 C++ | 📅 2026-07-13 - Open source media and application server for SIP based VoIP services.
 * [Janus](https://janus.conf.meetecho.com) - Lightweight open source, general purpose, WebRTC gateway.
 * [LiveKit](https://livekit.io) - Open-source WebRTC infrastructure for building scalable real-time audio and video applications.
@@ -58,7 +58,7 @@
 
 ### STUN/TURN
 
-* [coturn](https://github.com/coturn/coturn) ⭐ 14,315 | 🐛 317 | 🌐 C | 📅 2026-08-18 - Fully featured TURN/STUN server supporting multiple platforms.
+* [coturn](https://github.com/coturn/coturn) ⭐ 14,321 | 🐛 318 | 🌐 C | 📅 2026-08-18 - Fully featured TURN/STUN server supporting multiple platforms.
 * [STUNTMAN](https://github.com/jselbie/stunserver) ⭐ 1,609 | 🐛 13 | 🌐 C++ | 📅 2026-05-12 - RFC compliant open source STUN implementation.
 
   ## Operations
@@ -67,17 +67,17 @@
 
 ### Monitoring
 
-* [HOMER](https://github.com/sipcapture/homer) ⭐ 2,007 | 🐛 2 | 🌐 Go | 📅 2026-08-20 - Multi-protocol capturing and monitoring framework for RTC.
+* [HOMER](https://github.com/sipcapture/homer) ⭐ 2,007 | 🐛 3 | 🌐 Go | 📅 2026-08-21 - Multi-protocol capturing and monitoring framework for RTC.
 * [sngrep](https://github.com/irontec/sngrep) ⭐ 1,203 | 🐛 73 | 🌐 C | 📅 2026-08-17 - Terminal based SIP flow viewer.
 * [WebRTC Troubleshooter](https://github.com/webrtc/testrtc) ⚠️ Archived - Self-hosted one stop client-side WebRTC troubleshooter.
-* [sipgrep](https://github.com/sipcapture/sipgrep) ⭐ 177 | 🐛 6 | 🌐 C | 📅 2025-09-10 - Console tool for sniffing, capturing and exploring SIP traffic.
+* [sipgrep](https://github.com/sipcapture/sipgrep) ⭐ 177 | 🐛 0 | 🌐 C | 📅 2026-08-20 - Console tool for sniffing, capturing and exploring SIP traffic.
 * [rtpbreak](https://github.com/Naishy/rtpsplit) ⭐ 23 | 🐛 0 | 🌐 C | 📅 2017-02-02 - Detect, reconstruct and analyze RTP sessions.
 * [Trickle ICE](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice) - Exposes client-side NAT traversal debug data.
 * [SIP3](https://sip3.io) - VoIP & RTC traffic monitoring and analysis platform.
 
 ### Testing
 
-* [SIPVicious](https://github.com/EnableSecurity/sipvicious) ⭐ 1,096 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - Suite of security tools that can be used to audit SIP based VoIP systems.
+* [SIPVicious](https://github.com/EnableSecurity/sipvicious) ⭐ 1,095 | 🐛 0 | 🌐 Python | 📅 2026-07-10 - Suite of security tools that can be used to audit SIP based VoIP systems.
 * [sipexer](https://github.com/miconda/sipexer) ⭐ 416 | 🐛 1 | 🌐 Go | 📅 2026-07-17 - Modern and flexible SIP command line tool.
 * [sipsak](https://github.com/nils-ohlmeier/sipsak) ⭐ 175 | 🐛 25 | 🌐 C | 📅 2025-05-26 - SIP stress and diagnostics utility.
 * [SIPp](http://sipp.sourceforge.net) - Traffic generator for the SIP protocol.
@@ -88,9 +88,9 @@
 
 ### Web/API Interfaces
 
-* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,080 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-18 - Telecommunication stack built with Node.js.
+* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,078 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-18 - Telecommunication stack built with Node.js.
 * [Sayna](https://github.com/SaynaAI/sayna) ⭐ 309 | 🐛 0 | 🌐 Rust | 📅 2026-05-31 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
-* [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 226 | 🐛 98 | 🌐 PHP | 📅 2026-08-17 - Multitenant solution for VoIP telephony providers.
+* [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 226 | 🐛 99 | 🌐 PHP | 📅 2026-08-21 - Multitenant solution for VoIP telephony providers.
 * [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
 * [Kazoo](https://www.2600hz.org) - Carrier-grade VoIP API platform using FreeSWITCH and Kamailio.
 * [FusionPBX](https://www.fusionpbx.com) - Multitenant system built on top of FreeSWITCH.
@@ -127,9 +127,9 @@
 
 ### C/C++ Libraries
 
-* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,709 | 🐛 147 | 🌐 C++ | 📅 2026-08-07 - Standalone WebRTC DataChannels C++ implementation.
+* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,710 | 🐛 147 | 🌐 C++ | 📅 2026-08-07 - Standalone WebRTC DataChannels C++ implementation.
 * [libSRTP](https://github.com/cisco/libsrtp) ⭐ 1,396 | 🐛 32 | 🌐 C | 📅 2026-08-13 - Secure Real-time Transport Protocol (SRTP) library for C.
-* [icey](https://github.com/nilstate/icey) ⭐ 1,366 | 🐛 6 | 🌐 C++ | 📅 2026-06-30 - C++20 WebRTC media runtime with FFmpeg pipeline, Symple signalling, and RFC 5766 TURN.
+* [icey](https://github.com/nilstate/icey) ⭐ 1,367 | 🐛 6 | 🌐 C++ | 📅 2026-06-30 - C++20 WebRTC media runtime with FFmpeg pipeline, Symple signalling, and RFC 5766 TURN.
 * [usrsctp](https://github.com/sctplab/usrsctp) ⭐ 759 | 🐛 169 | 🌐 C | 📅 2025-10-16 - Portable Stream Control Transmission Protocol (SCTP) user-land stack.
 * [libre](https://github.com/creytiv/re) ⭐ 546 | 🐛 20 | 🌐 C | 📅 2024-02-06 - Portable SIP Stack along with companion libraries for media handling, STUN/TURN and a modular user agent.
 * [rawrtc](https://github.com/rawrtc/rawrtc) ⭐ 391 | 🐛 59 | 🌐 C | 📅 2021-12-23 - WebRTC and ORTC library with a small footprint.
@@ -152,7 +152,7 @@
 
 ### Python Libraries
 
-* [aiortc](https://github.com/aiortc/aiortc) ⭐ 5,088 | 🐛 33 | 🌐 Python | 📅 2026-07-17 - WebRTC and ORTC implementation for Python using asyncio.
+* [aiortc](https://github.com/aiortc/aiortc) ⭐ 5,087 | 🐛 33 | 🌐 Python | 📅 2026-07-17 - WebRTC and ORTC implementation for Python using asyncio.
 * [peerjs-python](https://github.com/ambianic/peerjs-python) ⭐ 95 | 🐛 6 | 🌐 Python | 📅 2024-01-31 - Python port of the PeerJS peer-to-peer connection library.
 * [Katari](https://github.com/hyperioxx/Katari) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2022-12-25 - SIP stack application framework.
 
@@ -196,8 +196,8 @@
 
 ## Related Lists
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 3,984 | 🐛 2 | 📅 2026-03-21 - Research resources in the 3G/4G/5G Cellular security space.
-* [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 988 | 🐛 0 | 🌐 Python | 📅 2026-08-16 - Telco resources and projects.
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 3,988 | 🐛 2 | 📅 2026-03-21 - Research resources in the 3G/4G/5G Cellular security space.
+* [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 990 | 🐛 0 | 🌐 Python | 📅 2026-08-16 - Telco resources and projects.
 * [Awesome 5G](https://github.com/calee0219/awesome-5g) ⭐ 909 | 🐛 6 | 🌐 Shell | 📅 2026-02-03 - 5G frameworks, libraries, software and resources.
 * [Awesome RTC Hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) ⭐ 550 | 🐛 0 | 📅 2026-06-30 - Real Time Communications hacking and penetration testing resources.
 * [SIP Resources](https://github.com/miconda/sip-resources) ⭐ 260 | 🐛 1 | 📅 2026-04-11 - Useful SIP resources curated by Kamailio's head developer.
@@ -209,4 +209,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
