@@ -58,7 +58,7 @@
 
 ### STUN/TURN
 
-* [coturn](https://github.com/coturn/coturn) ⭐ 14,322 | 🐛 316 | 🌐 C | 📅 2026-08-22 - Fully featured TURN/STUN server supporting multiple platforms.
+* [coturn](https://github.com/coturn/coturn) ⭐ 14,326 | 🐛 316 | 🌐 C | 📅 2026-08-23 - Fully featured TURN/STUN server supporting multiple platforms.
 * [STUNTMAN](https://github.com/jselbie/stunserver) ⭐ 1,609 | 🐛 13 | 🌐 C++ | 📅 2026-05-12 - RFC compliant open source STUN implementation.
 
   ## Operations
@@ -70,7 +70,7 @@
 * [HOMER](https://github.com/sipcapture/homer) ⭐ 2,007 | 🐛 3 | 🌐 Go | 📅 2026-08-21 - Multi-protocol capturing and monitoring framework for RTC.
 * [sngrep](https://github.com/irontec/sngrep) ⭐ 1,203 | 🐛 73 | 🌐 C | 📅 2026-08-17 - Terminal based SIP flow viewer.
 * [WebRTC Troubleshooter](https://github.com/webrtc/testrtc) ⚠️ Archived - Self-hosted one stop client-side WebRTC troubleshooter.
-* [sipgrep](https://github.com/sipcapture/sipgrep) ⭐ 178 | 🐛 0 | 🌐 C | 📅 2026-08-20 - Console tool for sniffing, capturing and exploring SIP traffic.
+* [sipgrep](https://github.com/sipcapture/sipgrep) ⭐ 178 | 🐛 0 | 🌐 C | 📅 2026-08-22 - Console tool for sniffing, capturing and exploring SIP traffic.
 * [rtpbreak](https://github.com/Naishy/rtpsplit) ⭐ 23 | 🐛 0 | 🌐 C | 📅 2017-02-02 - Detect, reconstruct and analyze RTP sessions.
 * [Trickle ICE](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice) - Exposes client-side NAT traversal debug data.
 * [SIP3](https://sip3.io) - VoIP & RTC traffic monitoring and analysis platform.
@@ -88,8 +88,8 @@
 
 ### Web/API Interfaces
 
-* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,079 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-21 - Telecommunication stack built with Node.js.
-* [Sayna](https://github.com/SaynaAI/sayna) ⭐ 309 | 🐛 0 | 🌐 Rust | 📅 2026-05-31 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
+* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,081 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-21 - Telecommunication stack built with Node.js.
+* [Sayna](https://github.com/SaynaAI/sayna) ⭐ 310 | 🐛 0 | 🌐 Rust | 📅 2026-05-31 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 225 | 🐛 99 | 🌐 PHP | 📅 2026-08-21 - Multitenant solution for VoIP telephony providers.
 * [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
 * [Kazoo](https://www.2600hz.org) - Carrier-grade VoIP API platform using FreeSWITCH and Kamailio.
@@ -117,7 +117,7 @@
 ### JavaScript Libraries
 
 * [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,804 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26 - WebRTC video, voice, and data channels abstraction for Node.js and the browser.
-* [adapter.js](https://github.com/webrtcHacks/adapter) ⭐ 3,745 | 🐛 10 | 🌐 JavaScript | 📅 2026-06-15 - JavaScript shim for abstracting WebRTC spec changes and inconsistencies.
+* [adapter.js](https://github.com/webrtcHacks/adapter) ⭐ 3,745 | 🐛 9 | 🌐 JavaScript | 📅 2026-06-15 - JavaScript shim for abstracting WebRTC spec changes and inconsistencies.
 * [Netflux](https://github.com/coast-team/netflux) ⭐ 217 | 🐛 5 | 🌐 TypeScript | 📅 2026-07-14 - Isomorphic JavaScript peer to peer transport API for client and server.
 * [Socio](https://github.com/Rolands-Laucis/Socio) ⭐ 122 | 🐛 0 | 🌐 TypeScript | 📅 2026-05-27 - A WebSocket Real-Time Communication (RTC) API framework. Realtime Front-end, Back-end reactivity.
 * [drachtio](https://drachtio.org) - Node.js SIP server framework.
@@ -127,7 +127,7 @@
 
 ### C/C++ Libraries
 
-* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,712 | 🐛 147 | 🌐 C++ | 📅 2026-08-07 - Standalone WebRTC DataChannels C++ implementation.
+* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,713 | 🐛 147 | 🌐 C++ | 📅 2026-08-07 - Standalone WebRTC DataChannels C++ implementation.
 * [libSRTP](https://github.com/cisco/libsrtp) ⭐ 1,397 | 🐛 32 | 🌐 C | 📅 2026-08-13 - Secure Real-time Transport Protocol (SRTP) library for C.
 * [icey](https://github.com/nilstate/icey) ⭐ 1,367 | 🐛 6 | 🌐 C++ | 📅 2026-06-30 - C++20 WebRTC media runtime with FFmpeg pipeline, Symple signalling, and RFC 5766 TURN.
 * [usrsctp](https://github.com/sctplab/usrsctp) ⭐ 759 | 🐛 169 | 🌐 C | 📅 2025-10-16 - Portable Stream Control Transmission Protocol (SCTP) user-land stack.
@@ -142,7 +142,7 @@
 ### Go Libraries
 
 * [gossip](https://github.com/StefanKopieczek/gossip) ⭐ 344 | 🐛 18 | 🌐 Go | 📅 2020-02-21 - SIP stack for stateful user agents written in Go.
-* [go-diameter](https://github.com/fiorix/go-diameter) ⭐ 291 | 🐛 9 | 🌐 Go | 📅 2026-07-22 - RFC compliant Diameter protocol library.
+* [go-diameter](https://github.com/fiorix/go-diameter) ⭐ 291 | 🐛 10 | 🌐 Go | 📅 2026-07-22 - RFC compliant Diameter protocol library.
 * [siprocket](https://github.com/marv2097/siprocket) ⭐ 74 | 🐛 1 | 🌐 Go | 📅 2022-08-23 - Fast SIP and SDP packet parser.
 * [Pion](https://pion.ly) - Extensive software stack for WebRTC written in Go.
 
@@ -163,7 +163,7 @@
 
 ### Rust Libraries
 
-* [rtcrs/webrtc](https://github.com/rtcrs/webrtc) ⭐ 5,122 | 🐛 4 | 🌐 Rust | 📅 2026-08-19 - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
+* [rtcrs/webrtc](https://github.com/rtcrs/webrtc) ⭐ 5,122 | 🐛 3 | 🌐 Rust | 📅 2026-08-22 - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
 * [sipcore](https://github.com/armatusmiles/sipcore) ⭐ 31 | 🐛 5 | 🌐 Rust | 📅 2021-03-14 - Rust framework for creating SIP applications.
 * [libsip](https://docs.rs/libsip/0.2.4/libsip) - SIP implementation, with a focus towards softphone clients.
 
@@ -196,7 +196,7 @@
 
 ## Related Lists
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 3,990 | 🐛 2 | 📅 2026-03-21 - Research resources in the 3G/4G/5G Cellular security space.
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 3,992 | 🐛 2 | 📅 2026-03-21 - Research resources in the 3G/4G/5G Cellular security space.
 * [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 992 | 🐛 0 | 🌐 Python | 📅 2026-08-16 - Telco resources and projects.
 * [Awesome 5G](https://github.com/calee0219/awesome-5g) ⭐ 909 | 🐛 6 | 🌐 Shell | 📅 2026-02-03 - 5G frameworks, libraries, software and resources.
 * [Awesome RTC Hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) ⭐ 549 | 🐛 0 | 📅 2026-06-30 - Real Time Communications hacking and penetration testing resources.
@@ -209,4 +209,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
