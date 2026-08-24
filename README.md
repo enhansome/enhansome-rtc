@@ -41,14 +41,14 @@
 ### SIP Servers
 
 * [Sippy B2BUA](https://github.com/sippy/b2bua) ⭐ 201 | 🐛 28 | 🌐 Python | 📅 2026-07-19 - Back-to-back user agent server written in Python.
-* [Flexisip](https://github.com/BelledonneCommunications/flexisip) ⭐ 186 | 🐛 31 | 🌐 C++ | 📅 2026-08-20 - SIP server suite comprising proxy, presence and group chat functions.
+* [Flexisip](https://github.com/BelledonneCommunications/flexisip) ⭐ 186 | 🐛 31 | 🌐 C++ | 📅 2026-08-24 - SIP server suite comprising proxy, presence and group chat functions.
 * [Kamailio](http://www.kamailio.org) - Open source SIP server widely deployed by carriers and providers. Formerly known as OpenSER.
 * [OpenSIPS](http://www.opensips.org) - Open source SIP server, tracing its roots in OpenSER (presently Kamailio).
 * [Routr](https://routr.io) - Lightweight SIP proxy, location server, and registrar written in Node.js.
 
 ### Media Servers
 
-* [RTP:Engine](https://github.com/sipwise/rtpengine) ⭐ 976 | 🐛 101 | 🌐 C | 📅 2026-08-21 - RTP and UDP based media traffic proxy, usable as a kernel module.
+* [RTP:Engine](https://github.com/sipwise/rtpengine) ⭐ 976 | 🐛 102 | 🌐 C | 📅 2026-08-24 - RTP and UDP based media traffic proxy, usable as a kernel module.
 * [SEMS](https://github.com/sems-server/sems) ⭐ 188 | 🐛 16 | 🌐 C++ | 📅 2026-07-13 - Open source media and application server for SIP based VoIP services.
 * [Janus](https://janus.conf.meetecho.com) - Lightweight open source, general purpose, WebRTC gateway.
 * [LiveKit](https://livekit.io) - Open-source WebRTC infrastructure for building scalable real-time audio and video applications.
@@ -58,7 +58,7 @@
 
 ### STUN/TURN
 
-* [coturn](https://github.com/coturn/coturn) ⭐ 14,334 | 🐛 312 | 🌐 C | 📅 2026-08-24 - Fully featured TURN/STUN server supporting multiple platforms.
+* [coturn](https://github.com/coturn/coturn) ⭐ 14,335 | 🐛 312 | 🌐 C | 📅 2026-08-24 - Fully featured TURN/STUN server supporting multiple platforms.
 * [STUNTMAN](https://github.com/jselbie/stunserver) ⭐ 1,609 | 🐛 13 | 🌐 C++ | 📅 2026-05-12 - RFC compliant open source STUN implementation.
 
   ## Operations
@@ -88,7 +88,7 @@
 
 ### Web/API Interfaces
 
-* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,080 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-24 - Telecommunication stack built with Node.js.
+* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,081 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-24 - Telecommunication stack built with Node.js.
 * [Sayna](https://github.com/SaynaAI/sayna) ⭐ 310 | 🐛 0 | 🌐 Rust | 📅 2026-05-31 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 225 | 🐛 99 | 🌐 PHP | 📅 2026-08-21 - Multitenant solution for VoIP telephony providers.
 * [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
@@ -100,9 +100,9 @@
 
 ### Billing
 
+* [PyFreeBilling](https://github.com/mwolff44/pyfreebilling) ⭐ 115 | 🐛 1 | 🌐 Shell | 📅 2026-08-18 - Wholesale billing platform for Kamailio and FreeSWITCH.
 * [CGRateS](http://cgrates.org) - Carrier grade open source billing/rating server.
 * [A2Billing](http://www.asterisk2billing.org) - Billing system for Asterisk for multiple applications.
-* [PyFreeBilling](https://github.com/mwolff44/pyfreebilling) ⭐ 115 | 🐛 1 | 🌐 Shell | 📅 2026-08-18 - Wholesale billing platform for Kamailio and FreeSWITCH.
 
 ## Developer Resources
 
@@ -152,7 +152,7 @@
 
 ### Python Libraries
 
-* [aiortc](https://github.com/aiortc/aiortc) ⭐ 5,090 | 🐛 32 | 🌐 Python | 📅 2026-07-17 - WebRTC and ORTC implementation for Python using asyncio.
+* [aiortc](https://github.com/aiortc/aiortc) ⭐ 5,091 | 🐛 32 | 🌐 Python | 📅 2026-07-17 - WebRTC and ORTC implementation for Python using asyncio.
 * [peerjs-python](https://github.com/ambianic/peerjs-python) ⭐ 95 | 🐛 6 | 🌐 Python | 📅 2024-01-31 - Python port of the PeerJS peer-to-peer connection library.
 * [Katari](https://github.com/hyperioxx/Katari) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2022-12-25 - SIP stack application framework.
 

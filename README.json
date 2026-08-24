@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 36228361,
                 "language": "C++",
-                "last_commit": "2026-08-20T12:34:21Z",
+                "last_commit": "2026-08-24T13:57:44Z",
                 "owner": "BelledonneCommunications",
                 "repo": "flexisip",
                 "stars": 186
@@ -51,7 +51,7 @@
                 "archived": false,
                 "id": 18172227,
                 "language": "C",
-                "last_commit": "2026-08-21T07:02:17Z",
+                "last_commit": "2026-08-24T13:48:54Z",
                 "owner": "sipwise",
                 "repo": "rtpengine",
                 "stars": 976
@@ -91,7 +91,7 @@
                 "last_commit": "2026-08-24T01:20:48Z",
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14334
+                "stars": 14335
               }
             },
             {
@@ -267,6 +267,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "slimswitch",
+              "description": "Tooling for creating lean secure FreeSWITCH Docker images.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 434748975,
+                "language": "Shell",
+                "last_commit": "2023-11-28T22:29:11Z",
+                "owner": "rtckit",
+                "repo": "slimswitch",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Deployment"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Fonoster",
               "description": "Telecommunication stack built with Node.js.",
               "children": [],
@@ -277,7 +299,7 @@
                 "last_commit": "2026-08-24T03:15:37Z",
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8080
+                "stars": 8081
               }
             },
             {
@@ -314,6 +336,28 @@
           "description": null,
           "node_type": "group",
           "title": "Web/API Interfaces"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PyFreeBilling",
+              "description": "Wholesale billing platform for Kamailio and FreeSWITCH.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9399148,
+                "language": "Shell",
+                "last_commit": "2026-08-18T10:03:16Z",
+                "owner": "mwolff44",
+                "repo": "pk-sbc",
+                "stars": 115
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Billing"
         }
       ],
       "title": "Server Software"
@@ -571,6 +615,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "RTCKit/SIP",
+              "description": "RFC 3261 compliant SIP parsing and rendering library for PHP 7.4+.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 308205066,
+                "language": "PHP",
+                "last_commit": "2024-11-11T16:50:14Z",
+                "owner": "rtckit",
+                "repo": "php-sip",
+                "stars": 42
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "PHP Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "aiortc",
               "description": "WebRTC and ORTC implementation for Python using asyncio.",
               "children": [],
@@ -581,7 +647,7 @@
                 "last_commit": "2026-07-17T08:17:35Z",
                 "owner": "aiortc",
                 "repo": "aiortc",
-                "stars": 5090
+                "stars": 5091
               }
             },
             {
@@ -692,6 +758,28 @@
           "description": null,
           "node_type": "group",
           "title": "Rust Libraries"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dart-sip-ua",
+              "description": "Dart-lang port of JsSIP, capable of SIP over WebSocket.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202939252,
+                "language": "Dart",
+                "last_commit": "2025-12-10T03:46:43Z",
+                "owner": "flutter-webrtc",
+                "repo": "dart-sip-ua",
+                "stars": 372
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Dart Libraries"
         }
       ],
       "title": "Developer Resources"
@@ -794,7 +882,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:35:24.757Z",
+    "last_updated": "2026-08-24T14:24:25.864Z",
     "original_repository": "rtckit/awesome-rtc",
     "original_repository_id": 222767354,
     "original_repository_sha": "ffdeda8737987b1a1ce305c6089552942c274a3a",
