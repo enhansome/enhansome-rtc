@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 36228361,
                 "language": "C++",
-                "last_commit": "2026-08-25T08:45:26Z",
+                "last_commit": "2026-08-25T13:06:32Z",
                 "owner": "BelledonneCommunications",
                 "repo": "flexisip",
                 "stars": 187
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-24T13:48:54Z",
                 "owner": "sipwise",
                 "repo": "rtpengine",
-                "stars": 977
+                "stars": 980
               }
             },
             {
@@ -91,7 +91,7 @@
                 "last_commit": "2026-08-24T23:23:37Z",
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14342
+                "stars": 14348
               }
             },
             {
@@ -140,10 +140,10 @@
                 "archived": false,
                 "id": 18214229,
                 "language": "Go",
-                "last_commit": "2026-08-25T09:42:23Z",
+                "last_commit": "2026-08-26T09:43:09Z",
                 "owner": "sipcapture",
                 "repo": "homer",
-                "stars": 2008
+                "stars": 2007
               }
             },
             {
@@ -225,7 +225,7 @@
                 "last_commit": "2026-07-10T05:46:43Z",
                 "owner": "EnableSecurity",
                 "repo": "sipvicious",
-                "stars": 1097
+                "stars": 1098
               }
             },
             {
@@ -237,7 +237,7 @@
                 "archived": false,
                 "id": 440819916,
                 "language": "Go",
-                "last_commit": "2026-08-25T10:16:17Z",
+                "last_commit": "2026-08-26T08:25:54Z",
                 "owner": "miconda",
                 "repo": "sipexer",
                 "stars": 416
@@ -296,10 +296,10 @@
                 "archived": false,
                 "id": 120149974,
                 "language": "TypeScript",
-                "last_commit": "2026-08-24T03:15:37Z",
+                "last_commit": "2026-08-26T03:00:39Z",
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8082
+                "stars": 8080
               }
             },
             {
@@ -379,7 +379,7 @@
                 "last_commit": "2024-06-26T14:45:57Z",
                 "owner": "feross",
                 "repo": "simple-peer",
-                "stars": 7804
+                "stars": 7803
               }
             },
             {
@@ -446,7 +446,7 @@
                 "last_commit": "2026-08-07T22:37:07Z",
                 "owner": "paullouisageneau",
                 "repo": "libdatachannel",
-                "stars": 2715
+                "stars": 2716
               }
             },
             {
@@ -536,7 +536,7 @@
                 "last_commit": "2026-08-03T21:15:30Z",
                 "owner": "freeswitch",
                 "repo": "sofia-sip",
-                "stars": 350
+                "stars": 351
               }
             },
             {
@@ -647,7 +647,7 @@
                 "last_commit": "2026-07-17T08:17:35Z",
                 "owner": "aiortc",
                 "repo": "aiortc",
-                "stars": 5091
+                "stars": 5093
               }
             },
             {
@@ -736,7 +736,7 @@
                 "last_commit": "2026-08-22T21:48:08Z",
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
-                "stars": 5129
+                "stars": 5130
               }
             },
             {
@@ -799,7 +799,7 @@
             "last_commit": "2026-03-21T11:14:33Z",
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 3997
+            "stars": 3998
           }
         },
         {
@@ -814,7 +814,7 @@
             "last_commit": "2026-08-16T19:14:06Z",
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 993
+            "stars": 995
           }
         },
         {
@@ -882,7 +882,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T10:30:39.395Z",
+    "last_updated": "2026-08-26T10:32:59.345Z",
     "original_repository": "rtckit/awesome-rtc",
     "original_repository_id": 222767354,
     "original_repository_sha": "ffdeda8737987b1a1ce305c6089552942c274a3a",
