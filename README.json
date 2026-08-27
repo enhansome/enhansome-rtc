@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 36228361,
                 "language": "C++",
-                "last_commit": "2026-08-25T13:06:32Z",
+                "last_commit": "2026-08-27T15:23:01Z",
                 "owner": "BelledonneCommunications",
                 "repo": "flexisip",
                 "stars": 187
@@ -91,7 +91,7 @@
                 "last_commit": "2026-08-27T04:58:09Z",
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14350
+                "stars": 14352
               }
             },
             {
@@ -143,7 +143,7 @@
                 "last_commit": "2026-08-26T19:25:43Z",
                 "owner": "sipcapture",
                 "repo": "homer",
-                "stars": 2006
+                "stars": 2007
               }
             },
             {
@@ -158,7 +158,7 @@
                 "last_commit": "2026-08-17T19:38:44Z",
                 "owner": "irontec",
                 "repo": "sngrep",
-                "stars": 1202
+                "stars": 1203
               }
             },
             {
@@ -299,7 +299,7 @@
                 "last_commit": "2026-08-26T03:00:39Z",
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8082
+                "stars": 8084
               }
             },
             {
@@ -326,7 +326,7 @@
                 "archived": false,
                 "id": 70790425,
                 "language": "PHP",
-                "last_commit": "2026-08-27T11:59:27Z",
+                "last_commit": "2026-08-27T15:21:45Z",
                 "owner": "irontec",
                 "repo": "ivozprovider",
                 "stars": 225
@@ -736,7 +736,7 @@
                 "last_commit": "2026-08-22T21:48:08Z",
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
-                "stars": 5129
+                "stars": 5130
               }
             },
             {
@@ -882,7 +882,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:01:37.306Z",
+    "last_updated": "2026-08-27T20:08:41.796Z",
     "original_repository_info": {
       "archived": false,
       "id": 222767354,
