@@ -18,7 +18,8 @@
                 "owner": "sippy",
                 "repo": "b2bua",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "BelledonneCommunications",
                 "repo": "flexisip",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -54,8 +56,9 @@
                 "last_commit": "2026-08-24T13:48:54Z",
                 "owner": "sipwise",
                 "repo": "rtpengine",
-                "stars": 981
-              }
+                "stars": 982
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -70,7 +73,8 @@
                 "owner": "sems-server",
                 "repo": "sems",
                 "stars": 188
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -88,11 +92,12 @@
                 "archived": false,
                 "id": 39242894,
                 "language": "C",
-                "last_commit": "2026-08-27T04:58:09Z",
+                "last_commit": "2026-08-28T04:59:55Z",
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14352
-              }
+                "stars": 14357
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -107,7 +112,8 @@
                 "owner": "jselbie",
                 "repo": "stunserver",
                 "stars": 1609
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -122,7 +128,8 @@
                 "owner": "1mb-dev",
                 "repo": "natcheck",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -140,11 +147,12 @@
                 "archived": false,
                 "id": 18214229,
                 "language": "Go",
-                "last_commit": "2026-08-26T19:25:43Z",
+                "last_commit": "2026-08-28T11:58:18Z",
                 "owner": "sipcapture",
                 "repo": "homer",
-                "stars": 2007
-              }
+                "stars": 2008
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -159,7 +167,8 @@
                 "owner": "irontec",
                 "repo": "sngrep",
                 "stars": 1203
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -174,7 +183,8 @@
                 "owner": "webrtc",
                 "repo": "testrtc",
                 "stars": 496
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -189,7 +199,8 @@
                 "owner": "sipcapture",
                 "repo": "sipgrep",
                 "stars": 178
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -204,7 +215,8 @@
                 "owner": "Naishy",
                 "repo": "rtpsplit",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -225,8 +237,9 @@
                 "last_commit": "2026-07-10T05:46:43Z",
                 "owner": "EnableSecurity",
                 "repo": "sipvicious",
-                "stars": 1098
-              }
+                "stars": 1099
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -240,8 +253,9 @@
                 "last_commit": "2026-08-27T10:34:02Z",
                 "owner": "miconda",
                 "repo": "sipexer",
-                "stars": 416
-              }
+                "stars": 417
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -255,8 +269,9 @@
                 "last_commit": "2025-05-26T20:04:22Z",
                 "owner": "nils-ohlmeier",
                 "repo": "sipsak",
-                "stars": 175
-              }
+                "stars": 176
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -278,7 +293,8 @@
                 "owner": "rtckit",
                 "repo": "slimswitch",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -299,8 +315,9 @@
                 "last_commit": "2026-08-26T03:00:39Z",
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8084
-              }
+                "stars": 8088
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -315,7 +332,8 @@
                 "owner": "SaynaAI",
                 "repo": "sayna",
                 "stars": 310
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -330,7 +348,8 @@
                 "owner": "irontec",
                 "repo": "ivozprovider",
                 "stars": 225
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -352,7 +371,8 @@
                 "owner": "mwolff44",
                 "repo": "pk-sbc",
                 "stars": 115
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -380,7 +400,8 @@
                 "owner": "feross",
                 "repo": "simple-peer",
                 "stars": 7803
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -395,7 +416,8 @@
                 "owner": "webrtcHacks",
                 "repo": "adapter",
                 "stars": 3746
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -410,7 +432,8 @@
                 "owner": "coast-team",
                 "repo": "netflux",
                 "stars": 217
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -425,7 +448,8 @@
                 "owner": "Rolands-Laucis",
                 "repo": "Socio",
                 "stars": 122
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -446,8 +470,9 @@
                 "last_commit": "2026-08-07T22:37:07Z",
                 "owner": "paullouisageneau",
                 "repo": "libdatachannel",
-                "stars": 2720
-              }
+                "stars": 2722
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -462,7 +487,8 @@
                 "owner": "cisco",
                 "repo": "libsrtp",
                 "stars": 1397
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -477,7 +503,8 @@
                 "owner": "nilstate",
                 "repo": "icey",
                 "stars": 1367
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -491,8 +518,9 @@
                 "last_commit": "2025-10-16T18:51:48Z",
                 "owner": "sctplab",
                 "repo": "usrsctp",
-                "stars": 759
-              }
+                "stars": 760
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -507,7 +535,8 @@
                 "owner": "creytiv",
                 "repo": "re",
                 "stars": 546
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -522,7 +551,8 @@
                 "owner": "rawrtc",
                 "repo": "rawrtc",
                 "stars": 391
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -537,7 +567,8 @@
                 "owner": "freeswitch",
                 "repo": "sofia-sip",
                 "stars": 351
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -552,7 +583,8 @@
                 "owner": "joegen",
                 "repo": "oss_core",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -574,7 +606,8 @@
                 "owner": "StefanKopieczek",
                 "repo": "gossip",
                 "stars": 344
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -589,7 +622,8 @@
                 "owner": "fiorix",
                 "repo": "go-diameter",
                 "stars": 292
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -604,7 +638,8 @@
                 "owner": "marv2097",
                 "repo": "siprocket",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -626,7 +661,8 @@
                 "owner": "rtckit",
                 "repo": "php-sip",
                 "stars": 42
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -647,8 +683,9 @@
                 "last_commit": "2026-07-17T08:17:35Z",
                 "owner": "aiortc",
                 "repo": "aiortc",
-                "stars": 5095
-              }
+                "stars": 5096
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -663,7 +700,8 @@
                 "owner": "ambianic",
                 "repo": "peerjs-python",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -678,7 +716,8 @@
                 "owner": "hyperioxx",
                 "repo": "Katari",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -700,7 +739,8 @@
                 "owner": "erlnets",
                 "repo": "nksip",
                 "stars": 364
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -715,7 +755,8 @@
                 "owner": "poroh",
                 "repo": "ersip",
                 "stars": 130
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -736,8 +777,9 @@
                 "last_commit": "2026-08-22T21:48:08Z",
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
-                "stars": 5130
-              }
+                "stars": 5131
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             },
             {
               "node_type": "item",
@@ -752,7 +794,8 @@
                 "owner": "kurotych",
                 "repo": "sipcore",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -774,7 +817,8 @@
                 "owner": "flutter-webrtc",
                 "repo": "dart-sip-ua",
                 "stars": 372
-              }
+              },
+              "first_seen": "2026-08-28T21:05:19.418Z"
             }
           ],
           "description": null,
@@ -796,11 +840,12 @@
             "archived": false,
             "id": 187701900,
             "language": null,
-            "last_commit": "2026-03-21T11:14:33Z",
+            "last_commit": "2026-08-28T17:45:58Z",
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4001
-          }
+            "stars": 4002
+          },
+          "first_seen": "2026-08-28T21:05:19.418Z"
         },
         {
           "node_type": "item",
@@ -814,8 +859,9 @@
             "last_commit": "2026-08-16T19:14:06Z",
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 994
-          }
+            "stars": 995
+          },
+          "first_seen": "2026-08-28T21:05:19.418Z"
         },
         {
           "node_type": "item",
@@ -830,7 +876,8 @@
             "owner": "calee0219",
             "repo": "awesome-5g",
             "stars": 910
-          }
+          },
+          "first_seen": "2026-08-28T21:05:19.418Z"
         },
         {
           "node_type": "item",
@@ -844,8 +891,9 @@
             "last_commit": "2026-06-30T08:25:18Z",
             "owner": "EnableSecurity",
             "repo": "awesome-rtc-hacking",
-            "stars": 550
-          }
+            "stars": 549
+          },
+          "first_seen": "2026-08-28T21:05:19.418Z"
         },
         {
           "node_type": "item",
@@ -860,7 +908,8 @@
             "owner": "miconda",
             "repo": "sip-resources",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-28T21:05:19.418Z"
         },
         {
           "node_type": "item",
@@ -875,14 +924,15 @@
             "owner": "rtckit",
             "repo": "awesome-ript",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-28T21:05:19.418Z"
         }
       ],
       "title": "Related Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T20:08:41.796Z",
+    "last_updated": "2026-08-28T21:05:19.418Z",
     "original_repository_info": {
       "archived": false,
       "id": 222767354,
