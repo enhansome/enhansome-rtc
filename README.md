@@ -58,7 +58,7 @@
 
 ### STUN/TURN
 
-* [coturn](https://github.com/coturn/coturn) ⭐ 14,357 | 🐛 310 | 🌐 C | 📅 2026-08-28 - Fully featured TURN/STUN server supporting multiple platforms.
+* [coturn](https://github.com/coturn/coturn) ⭐ 14,358 | 🐛 309 | 🌐 C | 📅 2026-08-29 - Fully featured TURN/STUN server supporting multiple platforms.
 * [STUNTMAN](https://github.com/jselbie/stunserver) ⭐ 1,609 | 🐛 13 | 🌐 C++ | 📅 2026-05-12 - RFC compliant open source STUN implementation.
 
   ## Operations
@@ -88,7 +88,7 @@
 
 ### Web/API Interfaces
 
-* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,088 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - Telecommunication stack built with Node.js.
+* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,089 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - Telecommunication stack built with Node.js.
 * [Sayna](https://github.com/SaynaAI/sayna) ⭐ 310 | 🐛 0 | 🌐 Rust | 📅 2026-05-31 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 225 | 🐛 100 | 🌐 PHP | 📅 2026-08-27 - Multitenant solution for VoIP telephony providers.
 * [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
@@ -163,7 +163,7 @@
 
 ### Rust Libraries
 
-* [rtcrs/webrtc](https://github.com/rtcrs/webrtc) ⭐ 5,131 | 🐛 4 | 🌐 Rust | 📅 2026-08-22 - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
+* [rtcrs/webrtc](https://github.com/rtcrs/webrtc) ⭐ 5,131 | 🐛 4 | 🌐 Rust | 📅 2026-08-29 - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
 * [sipcore](https://github.com/armatusmiles/sipcore) ⭐ 31 | 🐛 5 | 🌐 Rust | 📅 2021-03-14 - Rust framework for creating SIP applications.
 * [libsip](https://docs.rs/libsip/0.2.4/libsip) - SIP implementation, with a focus towards softphone clients.
 
@@ -209,4 +209,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

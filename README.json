@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sippy B2BUA is a RFC3261-compliant Session Initiation Protocol (SIP) stack and Back-to-back user agent (B2BUA) server software. ",
+                "homepage": "http://b2bua.org",
                 "id": 20834540,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-07-19T01:35:32Z",
+                "open_issues": 28,
                 "owner": "sippy",
                 "repo": "b2bua",
-                "stars": 201
+                "stars": 201,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -28,12 +33,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Linphone.org mirror for flexisip (git://git.linphone.org/flexisip.git)",
+                "homepage": "https://www.linphone.org/en/flexisip-sip-server/",
                 "id": 36228361,
                 "language": "C++",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-27T15:23:01Z",
+                "open_issues": 30,
                 "owner": "BelledonneCommunications",
                 "repo": "flexisip",
-                "stars": 187
+                "stars": 187,
+                "topics": [
+                  "flexisip",
+                  "linphone",
+                  "proxy",
+                  "server",
+                  "sip",
+                  "sip-bridge",
+                  "sip-proxy",
+                  "sip-trunking",
+                  "voip"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -51,12 +71,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Sipwise media proxy for Kamailio",
+                "homepage": null,
                 "id": 18172227,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-24T13:48:54Z",
+                "open_issues": 103,
                 "owner": "sipwise",
                 "repo": "rtpengine",
-                "stars": 982
+                "stars": 982,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -67,12 +92,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sip Express Media Server",
+                "homepage": null,
                 "id": 18431241,
                 "language": "C++",
+                "license": null,
                 "last_commit": "2026-07-13T03:32:57Z",
+                "open_issues": 19,
                 "owner": "sems-server",
                 "repo": "sems",
-                "stars": 188
+                "stars": 188,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -90,12 +120,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "coturn TURN server project",
+                "homepage": null,
                 "id": 39242894,
                 "language": "C",
-                "last_commit": "2026-08-28T04:59:55Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T00:26:36Z",
+                "open_issues": 309,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14357
+                "stars": 14358,
+                "topics": [
+                  "networking",
+                  "server",
+                  "turn"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -106,12 +145,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Version 1.2. This is the source code to STUNTMAN - an open source STUN server and client code by john selbie.  Compliant with the latest RFCs including 5389, 5769, and 5780. Also includes backwards compatibility for RFC 3489. Compiles on Linux, MacOS, BSD, Solaris, and Win32 with Cygwin. Windows binaries avaialble from www.stunprotocol.org.",
+                "homepage": "http://www.stunprotocol.org",
                 "id": 2189307,
                 "language": "C++",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-12T01:29:29Z",
+                "open_issues": 13,
                 "owner": "jselbie",
                 "repo": "stunserver",
-                "stars": 1609
+                "stars": 1609,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -122,12 +166,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "NAT type diagnosis CLI. Tells you why WebRTC/P2P/VPN connections fail and whether TURN is required.",
+                "homepage": "https://1mb-dev.github.io/natcheck/",
                 "id": 1214895446,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-24T03:35:20Z",
+                "open_issues": 4,
                 "owner": "1mb-dev",
                 "repo": "natcheck",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "cli",
+                  "go",
+                  "nat",
+                  "nat-traversal",
+                  "networking",
+                  "p2p",
+                  "pion",
+                  "rfc-5780",
+                  "stun",
+                  "webrtc"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -145,12 +205,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HOMER - 100% Open-Source SIP, VoIP, RTC Packet Capture & Monitoring",
+                "homepage": "http://sipcapture.github.io/homer/",
                 "id": 18214229,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T11:58:18Z",
+                "open_issues": 1,
                 "owner": "sipcapture",
                 "repo": "homer",
-                "stars": 2008
+                "stars": 2008,
+                "topics": [
+                  "analytics",
+                  "callflow",
+                  "capture-agent",
+                  "cdr",
+                  "correlation",
+                  "encapsulation",
+                  "flow",
+                  "hep",
+                  "kamailio",
+                  "monitoring",
+                  "opensips",
+                  "packet-capture",
+                  "packet-sniffer",
+                  "pcap",
+                  "rtc",
+                  "sip",
+                  "statistics",
+                  "troubleshooting",
+                  "voip",
+                  "webrtc"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -161,12 +247,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ncurses SIP Messages flow viewer",
+                "homepage": null,
                 "id": 10825001,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-17T19:38:44Z",
+                "open_issues": 74,
                 "owner": "irontec",
                 "repo": "sngrep",
-                "stars": 1203
+                "stars": 1203,
+                "topics": [
+                  "debug",
+                  "flow",
+                  "hep",
+                  "ncurses",
+                  "pcap",
+                  "sip",
+                  "terminal",
+                  "trace"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -177,12 +277,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "WebRTC Troubeshooter PROJECT IS ON HOLD",
+                "homepage": "https://test.webrtc.org/",
                 "id": 30026613,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2024-03-15T13:30:11Z",
+                "open_issues": 87,
                 "owner": "webrtc",
                 "repo": "testrtc",
-                "stars": 496
+                "stars": 496,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -193,12 +298,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SIPGREP: Display and Troubleshoot SIP signaling over IP networks in console",
+                "homepage": "http://www.sipcapture.org",
                 "id": 10996071,
                 "language": "C",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-22T21:45:36Z",
+                "open_issues": 0,
                 "owner": "sipcapture",
                 "repo": "sipgrep",
-                "stars": 178
+                "stars": 178,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -209,12 +319,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "RTP stream extractor",
+                "homepage": null,
                 "id": 80708086,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2017-02-02T09:43:46Z",
+                "open_issues": 0,
                 "owner": "Naishy",
                 "repo": "rtpsplit",
-                "stars": 23
+                "stars": 23,
+                "topics": [
+                  "c",
+                  "rtp",
+                  "voip"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -232,12 +351,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SIPVicious OSS is a VoIP security testing toolset. It helps security teams, QA and developers test SIP-based VoIP systems and applications. This toolset is useful in simulating VoIP hacking attacks against PBX systems especially through identification, scanning, extension enumeration and password cracking.",
+                "homepage": "https://www.enablesecurity.com/sipvicious/",
                 "id": 32133566,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-10T05:46:43Z",
+                "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "sipvicious",
-                "stars": 1099
+                "stars": 1099,
+                "topics": [
+                  "audit-sip",
+                  "hacking-tools",
+                  "password-cracker",
+                  "security",
+                  "security-tools",
+                  "sip",
+                  "svcrack",
+                  "svcrash",
+                  "svmap",
+                  "svwar",
+                  "voip",
+                  "war-dial"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -248,12 +385,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Modern and flexible SIP/VoIP cli tool",
+                "homepage": null,
                 "id": 440819916,
                 "language": "Go",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T10:34:02Z",
+                "open_issues": 1,
                 "owner": "miconda",
                 "repo": "sipexer",
-                "stars": 417
+                "stars": 417,
+                "topics": [
+                  "go",
+                  "golang",
+                  "sip",
+                  "telephony",
+                  "voip",
+                  "webrtc",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -264,12 +414,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SIP swiss army knife",
+                "homepage": null,
                 "id": 20667496,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2025-05-26T20:04:22Z",
+                "open_issues": 25,
                 "owner": "nils-ohlmeier",
                 "repo": "sipsak",
-                "stars": 176
+                "stars": 176,
+                "topics": [
+                  "c",
+                  "command-line-tool",
+                  "sip"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -287,12 +446,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":whale2: Minimal FreeSWITCH Docker images",
+                "homepage": null,
                 "id": 434748975,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2023-11-28T22:29:11Z",
+                "open_issues": 0,
                 "owner": "rtckit",
                 "repo": "slimswitch",
-                "stars": 19
+                "stars": 19,
+                "topics": [
+                  "docker",
+                  "docker-image",
+                  "freeswitch",
+                  "freeswitch-docker",
+                  "sip",
+                  "telephony",
+                  "webrtc"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -310,12 +482,33 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀 The open-source alternative to Twilio.",
+                "homepage": "https://fonoster.com",
                 "id": 120149974,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-26T03:00:39Z",
+                "open_issues": 13,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8088
+                "stars": 8089,
+                "topics": [
+                  "cloud",
+                  "cloud-communications-platform",
+                  "cpaas",
+                  "customer-engagement",
+                  "customer-experience",
+                  "javascript",
+                  "kubernetes",
+                  "nodejs",
+                  "programmable-voice",
+                  "telephony",
+                  "twilio",
+                  "typescript",
+                  "ucaas",
+                  "voip",
+                  "webrtc"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -326,12 +519,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sayna is a unified Voice Layer for AI Agents with a seemless integration to an existing agentic frameworks",
+                "homepage": "https://sayna.ai",
                 "id": 1012828424,
                 "language": "Rust",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-31T02:00:32Z",
+                "open_issues": 0,
                 "owner": "SaynaAI",
                 "repo": "sayna",
-                "stars": 310
+                "stars": 310,
+                "topics": [
+                  "ai-agents",
+                  "speech-to-text",
+                  "text-to-speech",
+                  "voice-agents",
+                  "voice-ai",
+                  "voice-ai-agents",
+                  "voice-synthesis"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -342,12 +548,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "IVOZ Provider - Multitenant solution for VoIP telephony providers",
+                "homepage": "https://faktoria.irontec.com/",
                 "id": 70790425,
                 "language": "PHP",
+                "license": "GPL-3.0",
                 "last_commit": "2026-08-27T15:21:45Z",
+                "open_issues": 100,
                 "owner": "irontec",
                 "repo": "ivozprovider",
-                "stars": 225
+                "stars": 225,
+                "topics": [
+                  "multitenant",
+                  "pbx",
+                  "platform",
+                  "provider",
+                  "scale",
+                  "sip",
+                  "telephony",
+                  "voip"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -365,12 +585,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "P-KISS-SBC - simple and stupid SIP/RTP SBC - AGPL v3 - Based on kamailio / RTP Engine",
+                "homepage": "https://pk-sbc.io",
                 "id": 9399148,
                 "language": "Shell",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-08-18T10:03:16Z",
+                "open_issues": 1,
                 "owner": "mwolff44",
                 "repo": "pk-sbc",
-                "stars": 115
+                "stars": 115,
+                "topics": [
+                  "agplv3",
+                  "kamailio",
+                  "kiss",
+                  "routing-engine",
+                  "rtp",
+                  "sbc",
+                  "security",
+                  "sip",
+                  "softswitch",
+                  "voip",
+                  "voip-application",
+                  "voip-telephony-providers"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -394,12 +632,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "📡 Simple WebRTC video, voice, and data channels",
+                "homepage": null,
                 "id": 21251069,
                 "language": "JavaScript",
+                "license": "MIT",
                 "last_commit": "2024-06-26T14:45:57Z",
+                "open_issues": 128,
                 "owner": "feross",
                 "repo": "simple-peer",
-                "stars": 7803
+                "stars": 7803,
+                "topics": [
+                  "browser",
+                  "data-channels",
+                  "javascript",
+                  "nodejs",
+                  "p2p",
+                  "peer-connection",
+                  "webrtc"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -410,12 +661,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Shim to insulate apps from spec changes and prefix differences. Latest adapter.js release:",
+                "homepage": "https://webrtcHacks.github.io/adapter/adapter-latest.js",
                 "id": 30027163,
                 "language": "JavaScript",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-27T10:09:15Z",
+                "open_issues": 9,
                 "owner": "webrtcHacks",
                 "repo": "adapter",
-                "stars": 3746
+                "stars": 3746,
+                "topics": [
+                  "polyfill",
+                  "webrtc",
+                  "webrtc-adapter"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -426,12 +686,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "JavaScript client and server side transport API based on WebRTC & WebSocket",
+                "homepage": "https://coast-team.github.io/netflux",
                 "id": 48050309,
                 "language": "TypeScript",
+                "license": "AGPL-3.0",
                 "last_commit": "2026-07-14T07:27:25Z",
+                "open_issues": 5,
                 "owner": "coast-team",
                 "repo": "netflux",
-                "stars": 217
+                "stars": 217,
+                "topics": [
+                  "isomorphic",
+                  "middleware",
+                  "p2p",
+                  "peer-network",
+                  "universal-javascript",
+                  "webrtc",
+                  "websockets"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -442,12 +715,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A WebSocket Real-Time Communication (RTC) Web API framework",
+                "homepage": "https://www.npmjs.com/package/socio",
                 "id": 558486903,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-05-27T06:57:44Z",
+                "open_issues": 0,
                 "owner": "Rolands-Laucis",
                 "repo": "Socio",
-                "stars": 122
+                "stars": 122,
+                "topics": [
+                  "api",
+                  "database",
+                  "framework",
+                  "javascript",
+                  "query",
+                  "reactive",
+                  "rtc",
+                  "sql",
+                  "sync",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -465,12 +754,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "C/C++ WebRTC network library featuring Data Channels, Media Transport, and WebSockets",
+                "homepage": "https://libdatachannel.org/",
                 "id": 199076632,
                 "language": "C++",
+                "license": "MPL-2.0",
                 "last_commit": "2026-08-07T22:37:07Z",
+                "open_issues": 148,
                 "owner": "paullouisageneau",
                 "repo": "libdatachannel",
-                "stars": 2722
+                "stars": 2722,
+                "topics": [
+                  "c-plus-plus",
+                  "cpp",
+                  "datachannel",
+                  "libdatachannel",
+                  "libnice",
+                  "p2p",
+                  "peer-to-peer",
+                  "peerconnection",
+                  "rfc-8831",
+                  "rfc-8834",
+                  "rtcdatachannel",
+                  "rtcpeerconnection",
+                  "sctp",
+                  "webrtc",
+                  "webrtc-datachannel",
+                  "webrtc-video",
+                  "websocket"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -481,12 +793,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Library for SRTP (Secure Realtime Transport Protocol) ",
+                "homepage": null,
                 "id": 9087423,
                 "language": "C",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-13T07:45:27Z",
+                "open_issues": 32,
                 "owner": "cisco",
                 "repo": "libsrtp",
-                "stars": 1397
+                "stars": 1397,
+                "topics": [
+                  "libsrtp",
+                  "rtp",
+                  "srtp"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -497,12 +818,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-time media stack and lightweight libwebrtc alternative, built in C++20",
+                "homepage": "https://0state.com/icey",
                 "id": 3524917,
                 "language": "C++",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-06-30T05:40:25Z",
+                "open_issues": 6,
                 "owner": "nilstate",
                 "repo": "icey",
-                "stars": 1367
+                "stars": 1367,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -513,12 +839,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A portable SCTP userland stack",
+                "homepage": null,
                 "id": 39330705,
                 "language": "C",
+                "license": "BSD-3-Clause",
                 "last_commit": "2025-10-16T18:51:48Z",
+                "open_issues": 170,
                 "owner": "sctplab",
                 "repo": "usrsctp",
-                "stars": 760
+                "stars": 760,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -529,12 +860,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Generic library for real-time communications with async IO support",
+                "homepage": "http://creytiv.com/re.html",
                 "id": 68437791,
                 "language": "C",
+                "license": null,
                 "last_commit": "2024-02-06T08:26:27Z",
+                "open_issues": 20,
                 "owner": "creytiv",
                 "repo": "re",
-                "stars": 546
+                "stars": 546,
+                "topics": [
+                  "ice",
+                  "sip",
+                  "turn",
+                  "voip",
+                  "webrtc"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -545,12 +887,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebRTC and ORTC with a little bit of RAWR!",
+                "homepage": null,
                 "id": 80470566,
                 "language": "C",
+                "license": "BSD-2-Clause",
                 "last_commit": "2021-12-23T16:45:33Z",
+                "open_issues": 59,
                 "owner": "rawrtc",
                 "repo": "rawrtc",
-                "stars": 391
+                "stars": 391,
+                "topics": [
+                  "data-channel",
+                  "ortc",
+                  "peer-connection",
+                  "sctp",
+                  "webrtc"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -561,12 +914,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Sofia-SIP is an open-source SIP User-Agent library, compliant with the IETF RFC3261 specification.",
+                "homepage": null,
                 "id": 278691632,
                 "language": "C",
+                "license": "LGPL-2.1",
                 "last_commit": "2026-08-03T21:15:30Z",
+                "open_issues": 125,
                 "owner": "freeswitch",
                 "repo": "sofia-sip",
-                "stars": 351
+                "stars": 351,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -577,12 +935,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SIP Session Border Controller Library",
+                "homepage": null,
                 "id": 5187338,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2021-11-18T15:32:22Z",
+                "open_issues": 0,
                 "owner": "joegen",
                 "repo": "oss_core",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -600,12 +963,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SIP stack in Golang",
+                "homepage": null,
                 "id": 20138473,
                 "language": "Go",
+                "license": "LGPL-2.1",
                 "last_commit": "2020-02-21T04:01:43Z",
+                "open_issues": 18,
                 "owner": "StefanKopieczek",
                 "repo": "gossip",
-                "stars": 344
+                "stars": 344,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -616,12 +984,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Diameter stack and Base Protocol (RFC 6733) for the Go programming language",
+                "homepage": null,
                 "id": 12191706,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-22T06:21:29Z",
+                "open_issues": 12,
                 "owner": "fiorix",
                 "repo": "go-diameter",
-                "stars": 292
+                "stars": 292,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -632,12 +1005,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Fast SIP and SDP Parser",
+                "homepage": null,
                 "id": 75967341,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2022-08-23T16:40:07Z",
+                "open_issues": 1,
                 "owner": "marv2097",
                 "repo": "siprocket",
-                "stars": 74
+                "stars": 74,
+                "topics": [
+                  "parse",
+                  "sdp",
+                  "sip",
+                  "sip-headers",
+                  "sip-messages"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -655,12 +1039,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":phone: SIP Parsing/Rendering Library for PHP",
+                "homepage": null,
                 "id": 308205066,
                 "language": "PHP",
+                "license": "MIT",
                 "last_commit": "2024-11-11T16:50:14Z",
+                "open_issues": 1,
                 "owner": "rtckit",
                 "repo": "php-sip",
-                "stars": 42
+                "stars": 42,
+                "topics": [
+                  "composer-library",
+                  "php",
+                  "rfc-3261",
+                  "sip",
+                  "sip-parser",
+                  "telco",
+                  "telecommunications",
+                  "telephony",
+                  "voip",
+                  "voip-library"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -678,12 +1078,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "WebRTC and ORTC implementation for Python using asyncio",
+                "homepage": null,
                 "id": 122677553,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-07-17T08:17:35Z",
+                "open_issues": 34,
                 "owner": "aiortc",
                 "repo": "aiortc",
-                "stars": 5096
+                "stars": 5096,
+                "topics": [
+                  "asyncio",
+                  "data-channel",
+                  "ortc",
+                  "python",
+                  "webrtc",
+                  "webrtc-libraries"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -694,12 +1106,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Python port of PeerJS client",
+                "homepage": null,
                 "id": 228647375,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2024-01-31T14:32:55Z",
+                "open_issues": 6,
                 "owner": "ambianic",
                 "repo": "peerjs-python",
-                "stars": 95
+                "stars": 95,
+                "topics": [
+                  "aiortc",
+                  "edge-computing",
+                  "iot",
+                  "peer-to-peer",
+                  "peerjs",
+                  "python",
+                  "webrtc"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -710,12 +1135,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Katari -  Python Session Initiated Protocol Framework",
+                "homepage": null,
                 "id": 116312992,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2022-12-25T21:33:27Z",
+                "open_issues": 4,
                 "owner": "hyperioxx",
                 "repo": "Katari",
-                "stars": 4
+                "stars": 4,
+                "topics": [
+                  "asterisk",
+                  "avaya",
+                  "broadsoft",
+                  "broadworks",
+                  "cisco-webex",
+                  "phone",
+                  "python",
+                  "sip",
+                  "sip-library",
+                  "sip-server",
+                  "sip-stack",
+                  "sip-uri",
+                  "telecommunications",
+                  "telephony",
+                  "voip",
+                  "voip-communications",
+                  "voip-server"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -733,12 +1181,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Erlang SIP application server",
+                "homepage": null,
                 "id": 11258546,
                 "language": "Erlang",
+                "license": "Apache-2.0",
                 "last_commit": "2024-05-23T07:24:03Z",
+                "open_issues": 17,
                 "owner": "erlnets",
                 "repo": "nksip",
-                "stars": 364
+                "stars": 364,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -749,12 +1202,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Erlang SIP",
+                "homepage": null,
                 "id": 112973180,
                 "language": "Erlang",
+                "license": "MIT",
                 "last_commit": "2024-09-25T08:07:56Z",
+                "open_issues": 8,
                 "owner": "poroh",
                 "repo": "ersip",
-                "stars": 130
+                "stars": 130,
+                "topics": [
+                  "erlang",
+                  "erlang-sip",
+                  "library",
+                  "sdp",
+                  "sip"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -772,12 +1236,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Async-friendly WebRTC implementation in Rust",
+                "homepage": "https://webrtc.rs",
                 "id": 202485012,
                 "language": "Rust",
-                "last_commit": "2026-08-22T21:48:08Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:34:32Z",
+                "open_issues": 4,
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
-                "stars": 5131
+                "stars": 5131,
+                "topics": [
+                  "async",
+                  "rtc",
+                  "rust",
+                  "webrtc"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             },
@@ -788,12 +1262,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Rust framework for creating SIP applications",
+                "homepage": null,
                 "id": 230137243,
                 "language": "Rust",
+                "license": "MIT",
                 "last_commit": "2021-03-14T14:20:32Z",
+                "open_issues": 5,
                 "owner": "kurotych",
                 "repo": "sipcore",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "crates",
+                  "rust-framework",
+                  "sip",
+                  "sip-parser"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -811,12 +1295,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A dart-lang version of the SIP UA stack.",
+                "homepage": null,
                 "id": 202939252,
                 "language": "Dart",
+                "license": "MIT",
                 "last_commit": "2025-12-10T03:46:43Z",
+                "open_issues": 173,
                 "owner": "flutter-webrtc",
                 "repo": "dart-sip-ua",
-                "stars": 372
+                "stars": 372,
+                "topics": [
+                  "client",
+                  "dartlang",
+                  "flutter",
+                  "jssip",
+                  "sip",
+                  "voip"
+                ]
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
             }
@@ -838,12 +1334,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome-Cellular-Hacking",
+            "homepage": null,
             "id": 187701900,
             "language": null,
+            "license": null,
             "last_commit": "2026-08-28T17:45:58Z",
+            "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4002
+            "stars": 4002,
+            "topics": [
+              "eviltwin",
+              "gsm",
+              "gsm-network",
+              "hacking",
+              "lte",
+              "lte-evil-twin",
+              "rogue-bts",
+              "sdr"
+            ]
           },
           "first_seen": "2026-08-28T21:05:19.418Z"
         },
@@ -854,12 +1364,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of telco resources and projects",
+            "homepage": null,
             "id": 199304591,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-16T19:14:06Z",
+            "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 995
+            "stars": 995,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:05:19.418Z"
         },
@@ -870,12 +1385,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome lists about 5G projects.",
+            "homepage": null,
             "id": 279777581,
             "language": "Shell",
+            "license": "CC0-1.0",
             "last_commit": "2026-02-03T11:09:03Z",
+            "open_issues": 6,
             "owner": "calee0219",
             "repo": "awesome-5g",
-            "stars": 910
+            "stars": 910,
+            "topics": [
+              "5g",
+              "awesome",
+              "awesome-lists",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T21:05:19.418Z"
         },
@@ -886,12 +1411,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a list of awesome resources related to security and hacking of VoIP, WebRTC and VoLTE",
+            "homepage": "https://www.enablesecurity.com/",
             "id": 259825257,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-06-30T08:25:18Z",
+            "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "awesome-rtc-hacking",
-            "stars": 549
+            "stars": 549,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "awesome-lists",
+              "bug-bounty",
+              "communications-hacking",
+              "fuzzing",
+              "hacking",
+              "hacking-voip",
+              "security",
+              "sip-security",
+              "voip-security",
+              "volte",
+              "webrtc"
+            ]
           },
           "first_seen": "2026-08-28T21:05:19.418Z"
         },
@@ -902,12 +1446,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Various SIP resources.",
+            "homepage": null,
             "id": 48715444,
             "language": null,
+            "license": "GPL-2.0",
             "last_commit": "2026-04-11T16:41:01Z",
+            "open_issues": 1,
             "owner": "miconda",
             "repo": "sip-resources",
-            "stars": 260
+            "stars": 260,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:05:19.418Z"
         },
@@ -918,12 +1467,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":scroll: Curated list of Realtime Internet Peering for Telephony (RIPT) resources",
+            "homepage": null,
             "id": 246379165,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2020-10-30T17:47:38Z",
+            "open_issues": 0,
             "owner": "rtckit",
             "repo": "awesome-ript",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "peering",
+              "ript",
+              "rtc",
+              "telecommunications",
+              "telephony",
+              "trunking"
+            ]
           },
           "first_seen": "2026-08-28T21:05:19.418Z"
         }
@@ -932,15 +1495,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:05:19.418Z",
+    "last_updated": "2026-08-29T04:41:54.022Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":satellite: A curated list of awesome Real Time Communications resources",
+      "homepage": null,
       "id": 222767354,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-05-18T19:39:18Z",
+      "open_issues": 8,
       "owner": "rtckit",
       "repo": "awesome-rtc",
-      "stars": 494
+      "stars": 494,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "real-time-communications",
+        "rtc",
+        "sip",
+        "telecommunications",
+        "telephony",
+        "voip",
+        "webrtc"
+      ]
     },
     "original_repository_sha": "ffdeda8737987b1a1ce305c6089552942c274a3a",
     "enhanced_repository": "enhansome/enhansome-rtc",
