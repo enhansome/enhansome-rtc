@@ -88,7 +88,7 @@
 
 ### Web/API Interfaces
 
-* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,089 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - Telecommunication stack built with Node.js.
+* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,092 | 🐛 13 | 🌐 TypeScript | 📅 2026-08-26 - Telecommunication stack built with Node.js.
 * [Sayna](https://github.com/SaynaAI/sayna) ⭐ 310 | 🐛 0 | 🌐 Rust | 📅 2026-05-31 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 225 | 🐛 100 | 🌐 PHP | 📅 2026-08-27 - Multitenant solution for VoIP telephony providers.
 * [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
@@ -163,7 +163,7 @@
 
 ### Rust Libraries
 
-* [rtcrs/webrtc](https://github.com/rtcrs/webrtc) ⭐ 5,131 | 🐛 4 | 🌐 Rust | 📅 2026-08-29 - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
+* [rtcrs/webrtc](https://github.com/rtcrs/webrtc) ⭐ 5,132 | 🐛 4 | 🌐 Rust | 📅 2026-08-29 - WebRTC stack, supporting SDP, RTP, RTCP and SRTP.
 * [sipcore](https://github.com/armatusmiles/sipcore) ⭐ 31 | 🐛 5 | 🌐 Rust | 📅 2021-03-14 - Rust framework for creating SIP applications.
 * [libsip](https://docs.rs/libsip/0.2.4/libsip) - SIP implementation, with a focus towards softphone clients.
 
@@ -196,7 +196,7 @@
 
 ## Related Lists
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,002 | 🐛 2 | 📅 2026-08-28 - Research resources in the 3G/4G/5G Cellular security space.
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,003 | 🐛 2 | 📅 2026-08-28 - Research resources in the 3G/4G/5G Cellular security space.
 * [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 995 | 🐛 0 | 🌐 Python | 📅 2026-08-16 - Telco resources and projects.
 * [Awesome 5G](https://github.com/calee0219/awesome-5g) ⭐ 910 | 🐛 6 | 🌐 Shell | 📅 2026-02-03 - 5G frameworks, libraries, software and resources.
 * [Awesome RTC Hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) ⭐ 549 | 🐛 0 | 📅 2026-06-30 - Real Time Communications hacking and penetration testing resources.

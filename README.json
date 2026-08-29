@@ -491,7 +491,7 @@
                 "open_issues": 13,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8089,
+                "stars": 8092,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -1245,7 +1245,7 @@
                 "open_issues": 4,
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
-                "stars": 5131,
+                "stars": 5132,
                 "topics": [
                   "async",
                   "rtc",
@@ -1343,7 +1343,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4002,
+            "stars": 4003,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:41:54.022Z",
+    "last_updated": "2026-08-29T14:55:33.424Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
