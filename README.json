@@ -38,7 +38,7 @@
                 "id": 36228361,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-03T12:04:19Z",
+                "last_commit": "2026-09-04T15:03:20Z",
                 "open_issues": 30,
                 "owner": "BelledonneCommunications",
                 "repo": "flexisip",
@@ -74,13 +74,13 @@
                 "description": "The Sipwise media proxy for Kamailio",
                 "homepage": null,
                 "id": 18172227,
-                "language": "C",
+                "language": "Perl",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-04T12:44:15Z",
+                "last_commit": "2026-09-04T17:37:11Z",
                 "open_issues": 105,
                 "owner": "sipwise",
                 "repo": "rtpengine",
-                "stars": 982,
+                "stars": 983,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -125,11 +125,11 @@
                 "id": 39242894,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-01T02:55:38Z",
-                "open_issues": 312,
+                "last_commit": "2026-09-04T20:29:50Z",
+                "open_issues": 311,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14382,
+                "stars": 14384,
                 "topics": [
                   "networking",
                   "server",
@@ -360,7 +360,7 @@
                 "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "sipvicious",
-                "stars": 1100,
+                "stars": 1101,
                 "topics": [
                   "audit-sip",
                   "hacking-tools",
@@ -491,7 +491,7 @@
                 "open_issues": 13,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8097,
+                "stars": 8098,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -641,7 +641,7 @@
                 "open_issues": 128,
                 "owner": "feross",
                 "repo": "simple-peer",
-                "stars": 7801,
+                "stars": 7802,
                 "topics": [
                   "browser",
                   "data-channels",
@@ -1087,7 +1087,7 @@
                 "open_issues": 36,
                 "owner": "aiortc",
                 "repo": "aiortc",
-                "stars": 5098,
+                "stars": 5099,
                 "topics": [
                   "asyncio",
                   "data-channel",
@@ -1241,11 +1241,11 @@
                 "id": 202485012,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T21:54:57Z",
+                "last_commit": "2026-09-04T14:40:34Z",
                 "open_issues": 3,
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
-                "stars": 5142,
+                "stars": 5143,
                 "topics": [
                   "async",
                   "rtc",
@@ -1343,7 +1343,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4016,
+            "stars": 4017,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1373,7 +1373,7 @@
             "open_issues": 1,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 999,
+            "stars": 1000,
             "topics": []
           },
           "first_seen": "2026-08-28T21:05:19.418Z"
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T14:00:35.083Z",
+    "last_updated": "2026-09-05T13:14:52.459Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
