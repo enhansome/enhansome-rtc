@@ -77,10 +77,10 @@
                 "language": "Perl",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-11T12:30:37Z",
-                "open_issues": 103,
+                "open_issues": 104,
                 "owner": "sipwise",
                 "repo": "rtpengine",
-                "stars": 984,
+                "stars": 985,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -97,8 +97,8 @@
                 "id": 18431241,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-12T03:39:34Z",
-                "open_issues": 17,
+                "last_commit": "2026-09-13T10:19:00Z",
+                "open_issues": 18,
                 "owner": "sems-server",
                 "repo": "sems",
                 "stars": 188,
@@ -129,7 +129,7 @@
                 "open_issues": 306,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14402,
+                "stars": 14403,
                 "topics": [
                   "networking",
                   "server",
@@ -253,7 +253,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-08-17T19:38:44Z",
-                "open_issues": 74,
+                "open_issues": 75,
                 "owner": "irontec",
                 "repo": "sngrep",
                 "stars": 1203,
@@ -394,7 +394,7 @@
                 "open_issues": 1,
                 "owner": "miconda",
                 "repo": "sipexer",
-                "stars": 417,
+                "stars": 418,
                 "topics": [
                   "go",
                   "golang",
@@ -487,11 +487,11 @@
                 "id": 120149974,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-12T05:44:27Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-12T20:44:47Z",
+                "open_issues": 23,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8103,
+                "stars": 8105,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -525,7 +525,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-05-31T02:00:32Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "SaynaAI",
                 "repo": "sayna",
                 "stars": 314,
@@ -670,7 +670,7 @@
                 "open_issues": 6,
                 "owner": "webrtcHacks",
                 "repo": "adapter",
-                "stars": 3745,
+                "stars": 3746,
                 "topics": [
                   "polyfill",
                   "webrtc",
@@ -802,7 +802,7 @@
                 "open_issues": 30,
                 "owner": "cisco",
                 "repo": "libsrtp",
-                "stars": 1401,
+                "stars": 1400,
                 "topics": [
                   "libsrtp",
                   "rtp",
@@ -845,7 +845,7 @@
                 "language": "C",
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-10-16T18:51:48Z",
-                "open_issues": 170,
+                "open_issues": 171,
                 "owner": "sctplab",
                 "repo": "usrsctp",
                 "stars": 762,
@@ -1343,7 +1343,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4025,
+            "stars": 4027,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1394,7 +1394,7 @@
             "open_issues": 7,
             "owner": "calee0219",
             "repo": "awesome-5g",
-            "stars": 909,
+            "stars": 910,
             "topics": [
               "5g",
               "awesome",
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T13:20:49.884Z",
+    "last_updated": "2026-09-13T14:03:39.535Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
