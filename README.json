@@ -38,11 +38,11 @@
                 "id": 36228361,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-09-16T08:34:52Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-18T13:45:35Z",
+                "open_issues": 32,
                 "owner": "BelledonneCommunications",
                 "repo": "flexisip",
-                "stars": 188,
+                "stars": 187,
                 "topics": [
                   "flexisip",
                   "linphone",
@@ -97,8 +97,8 @@
                 "id": 18431241,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-17T03:25:31Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-18T04:00:23Z",
+                "open_issues": 16,
                 "owner": "sems-server",
                 "repo": "sems",
                 "stars": 189,
@@ -129,7 +129,7 @@
                 "open_issues": 307,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14414,
+                "stars": 14415,
                 "topics": [
                   "networking",
                   "server",
@@ -154,7 +154,7 @@
                 "open_issues": 13,
                 "owner": "jselbie",
                 "repo": "stunserver",
-                "stars": 1612,
+                "stars": 1611,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -211,10 +211,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T17:40:54Z",
-                "open_issues": 0,
+                "open_issues": 2,
                 "owner": "sipcapture",
                 "repo": "homer",
-                "stars": 2014,
+                "stars": 2015,
                 "topics": [
                   "analytics",
                   "callflow",
@@ -256,7 +256,7 @@
                 "open_issues": 73,
                 "owner": "irontec",
                 "repo": "sngrep",
-                "stars": 1204,
+                "stars": 1203,
                 "topics": [
                   "debug",
                   "flow",
@@ -394,7 +394,7 @@
                 "open_issues": 1,
                 "owner": "miconda",
                 "repo": "sipexer",
-                "stars": 419,
+                "stars": 424,
                 "topics": [
                   "go",
                   "golang",
@@ -487,8 +487,8 @@
                 "id": 120149974,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-09-16T19:04:08Z",
-                "open_issues": 27,
+                "last_commit": "2026-09-18T01:00:36Z",
+                "open_issues": 26,
                 "owner": "fonoster",
                 "repo": "fonoster",
                 "stars": 8113,
@@ -528,7 +528,7 @@
                 "open_issues": 0,
                 "owner": "SaynaAI",
                 "repo": "sayna",
-                "stars": 314,
+                "stars": 313,
                 "topics": [
                   "ai-agents",
                   "speech-to-text",
@@ -641,7 +641,7 @@
                 "open_issues": 128,
                 "owner": "feross",
                 "repo": "simple-peer",
-                "stars": 7800,
+                "stars": 7801,
                 "topics": [
                   "browser",
                   "data-channels",
@@ -670,7 +670,7 @@
                 "open_issues": 6,
                 "owner": "webrtcHacks",
                 "repo": "adapter",
-                "stars": 3746,
+                "stars": 3747,
                 "topics": [
                   "polyfill",
                   "webrtc",
@@ -763,7 +763,7 @@
                 "open_issues": 151,
                 "owner": "paullouisageneau",
                 "repo": "libdatachannel",
-                "stars": 2742,
+                "stars": 2744,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -827,7 +827,7 @@
                 "open_issues": 6,
                 "owner": "nilstate",
                 "repo": "icey",
-                "stars": 1366,
+                "stars": 1365,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -920,7 +920,7 @@
                 "language": "C",
                 "license": "LGPL-2.1",
                 "last_commit": "2026-08-03T21:15:30Z",
-                "open_issues": 125,
+                "open_issues": 126,
                 "owner": "freeswitch",
                 "repo": "sofia-sip",
                 "stars": 353,
@@ -1343,7 +1343,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4031,
+            "stars": 4032,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T14:41:07.459Z",
+    "last_updated": "2026-09-18T14:06:06.387Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
