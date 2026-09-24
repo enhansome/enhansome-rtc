@@ -76,8 +76,8 @@
                 "id": 18172227,
                 "language": "Perl",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T13:03:43Z",
-                "open_issues": 107,
+                "last_commit": "2026-09-24T14:13:33Z",
+                "open_issues": 105,
                 "owner": "sipwise",
                 "repo": "rtpengine",
                 "stars": 991,
@@ -97,8 +97,8 @@
                 "id": 18431241,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-23T03:28:34Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-24T03:19:41Z",
+                "open_issues": 32,
                 "owner": "sems-server",
                 "repo": "sems",
                 "stars": 189,
@@ -129,7 +129,7 @@
                 "open_issues": 306,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14426,
+                "stars": 14429,
                 "topics": [
                   "networking",
                   "server",
@@ -210,11 +210,11 @@
                 "id": 18214229,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-22T20:01:13Z",
+                "last_commit": "2026-09-24T14:34:20Z",
                 "open_issues": 1,
                 "owner": "sipcapture",
                 "repo": "homer",
-                "stars": 2017,
+                "stars": 2018,
                 "topics": [
                   "analytics",
                   "callflow",
@@ -256,7 +256,7 @@
                 "open_issues": 73,
                 "owner": "irontec",
                 "repo": "sngrep",
-                "stars": 1204,
+                "stars": 1205,
                 "topics": [
                   "debug",
                   "flow",
@@ -390,7 +390,7 @@
                 "id": 440819916,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-23T09:22:13Z",
+                "last_commit": "2026-09-24T11:46:40Z",
                 "open_issues": 1,
                 "owner": "miconda",
                 "repo": "sipexer",
@@ -491,7 +491,7 @@
                 "open_issues": 31,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8119,
+                "stars": 8122,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -760,10 +760,10 @@
                 "language": "C++",
                 "license": "MPL-2.0",
                 "last_commit": "2026-09-23T12:49:45Z",
-                "open_issues": 149,
+                "open_issues": 150,
                 "owner": "paullouisageneau",
                 "repo": "libdatachannel",
-                "stars": 2748,
+                "stars": 2749,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -802,7 +802,7 @@
                 "open_issues": 30,
                 "owner": "cisco",
                 "repo": "libsrtp",
-                "stars": 1400,
+                "stars": 1401,
                 "topics": [
                   "libsrtp",
                   "rtp",
@@ -972,7 +972,7 @@
                 "open_issues": 18,
                 "owner": "StefanKopieczek",
                 "repo": "gossip",
-                "stars": 344,
+                "stars": 345,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -993,7 +993,7 @@
                 "open_issues": 12,
                 "owner": "fiorix",
                 "repo": "go-diameter",
-                "stars": 292,
+                "stars": 293,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -1245,7 +1245,7 @@
                 "open_issues": 8,
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
-                "stars": 5151,
+                "stars": 5152,
                 "topics": [
                   "async",
                   "rtc",
@@ -1343,7 +1343,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4035,
+            "stars": 4036,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T14:40:53.537Z",
+    "last_updated": "2026-09-24T14:37:40.100Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
