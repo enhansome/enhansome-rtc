@@ -80,7 +80,7 @@
                 "open_issues": 107,
                 "owner": "sipwise",
                 "repo": "rtpengine",
-                "stars": 991,
+                "stars": 992,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -97,8 +97,8 @@
                 "id": 18431241,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-09-25T03:37:06Z",
-                "open_issues": 37,
+                "last_commit": "2026-09-26T03:32:58Z",
+                "open_issues": 38,
                 "owner": "sems-server",
                 "repo": "sems",
                 "stars": 189,
@@ -125,11 +125,11 @@
                 "id": 39242894,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-21T23:24:49Z",
-                "open_issues": 306,
+                "last_commit": "2026-09-25T21:58:36Z",
+                "open_issues": 304,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14430,
+                "stars": 14431,
                 "topics": [
                   "networking",
                   "server",
@@ -211,7 +211,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-25T09:35:43Z",
-                "open_issues": 1,
+                "open_issues": 0,
                 "owner": "sipcapture",
                 "repo": "homer",
                 "stars": 2018,
@@ -491,7 +491,7 @@
                 "open_issues": 31,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8123,
+                "stars": 8124,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -763,7 +763,7 @@
                 "open_issues": 151,
                 "owner": "paullouisageneau",
                 "repo": "libdatachannel",
-                "stars": 2748,
+                "stars": 2749,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -845,10 +845,10 @@
                 "language": "C",
                 "license": "BSD-3-Clause",
                 "last_commit": "2025-10-16T18:51:48Z",
-                "open_issues": 171,
+                "open_issues": 172,
                 "owner": "sctplab",
                 "repo": "usrsctp",
-                "stars": 763,
+                "stars": 764,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -990,7 +990,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-16T09:48:44Z",
-                "open_issues": 12,
+                "open_issues": 13,
                 "owner": "fiorix",
                 "repo": "go-diameter",
                 "stars": 293,
@@ -1084,10 +1084,10 @@
                 "language": "Python",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-07-17T08:17:35Z",
-                "open_issues": 37,
+                "open_issues": 38,
                 "owner": "aiortc",
                 "repo": "aiortc",
-                "stars": 5106,
+                "stars": 5107,
                 "topics": [
                   "asyncio",
                   "data-channel",
@@ -1242,7 +1242,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-20T18:15:26Z",
-                "open_issues": 8,
+                "open_issues": 9,
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
                 "stars": 5153,
@@ -1343,7 +1343,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4041,
+            "stars": 4042,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T14:59:27.036Z",
+    "last_updated": "2026-09-26T14:06:12.253Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
