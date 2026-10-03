@@ -77,7 +77,7 @@
                 "language": "Perl",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-24T14:13:33Z",
-                "open_issues": 114,
+                "open_issues": 115,
                 "owner": "sipwise",
                 "repo": "rtpengine",
                 "stars": 992,
@@ -129,7 +129,7 @@
                 "open_issues": 309,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14452,
+                "stars": 14453,
                 "topics": [
                   "networking",
                   "server",
@@ -256,7 +256,7 @@
                 "open_issues": 75,
                 "owner": "irontec",
                 "repo": "sngrep",
-                "stars": 1206,
+                "stars": 1207,
                 "topics": [
                   "debug",
                   "flow",
@@ -491,7 +491,7 @@
                 "open_issues": 32,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8127,
+                "stars": 8129,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -1343,7 +1343,7 @@
             "open_issues": 3,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4049,
+            "stars": 4050,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1394,7 +1394,7 @@
             "open_issues": 8,
             "owner": "calee0219",
             "repo": "awesome-5g",
-            "stars": 911,
+            "stars": 910,
             "topics": [
               "5g",
               "awesome",
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:04:35.170Z",
+    "last_updated": "2026-10-03T14:33:37.498Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
