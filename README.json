@@ -97,8 +97,8 @@
                 "id": 18431241,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-03T03:32:42Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-04T15:00:32Z",
+                "open_issues": 49,
                 "owner": "sems-server",
                 "repo": "sems",
                 "stars": 189,
@@ -256,7 +256,7 @@
                 "open_issues": 75,
                 "owner": "irontec",
                 "repo": "sngrep",
-                "stars": 1207,
+                "stars": 1208,
                 "topics": [
                   "debug",
                   "flow",
@@ -391,7 +391,7 @@
                 "language": "Go",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-24T11:46:40Z",
-                "open_issues": 1,
+                "open_issues": 3,
                 "owner": "miconda",
                 "repo": "sipexer",
                 "stars": 430,
@@ -491,7 +491,7 @@
                 "open_issues": 32,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8129,
+                "stars": 8130,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -528,7 +528,7 @@
                 "open_issues": 0,
                 "owner": "SaynaAI",
                 "repo": "sayna",
-                "stars": 313,
+                "stars": 314,
                 "topics": [
                   "ai-agents",
                   "speech-to-text",
@@ -641,7 +641,7 @@
                 "open_issues": 128,
                 "owner": "feross",
                 "repo": "simple-peer",
-                "stars": 7801,
+                "stars": 7800,
                 "topics": [
                   "browser",
                   "data-channels",
@@ -763,7 +763,7 @@
                 "open_issues": 152,
                 "owner": "paullouisageneau",
                 "repo": "libdatachannel",
-                "stars": 2757,
+                "stars": 2758,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -1241,8 +1241,8 @@
                 "id": 202485012,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-27T00:23:15Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-03T19:34:20Z",
+                "open_issues": 5,
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
                 "stars": 5159,
@@ -1343,7 +1343,7 @@
             "open_issues": 3,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4050,
+            "stars": 4051,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T14:33:37.498Z",
+    "last_updated": "2026-10-04T15:08:43.823Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
