@@ -39,7 +39,7 @@
                 "language": "C++",
                 "license": "AGPL-3.0",
                 "last_commit": "2026-10-06T08:24:13Z",
-                "open_issues": 28,
+                "open_issues": 27,
                 "owner": "BelledonneCommunications",
                 "repo": "flexisip",
                 "stars": 189,
@@ -76,8 +76,8 @@
                 "id": 18172227,
                 "language": "Perl",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-05T16:57:40Z",
-                "open_issues": 114,
+                "last_commit": "2026-10-06T13:59:24Z",
+                "open_issues": 111,
                 "owner": "sipwise",
                 "repo": "rtpengine",
                 "stars": 992,
@@ -129,7 +129,7 @@
                 "open_issues": 309,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14456,
+                "stars": 14457,
                 "topics": [
                   "networking",
                   "server",
@@ -214,7 +214,7 @@
                 "open_issues": 0,
                 "owner": "sipcapture",
                 "repo": "homer",
-                "stars": 2018,
+                "stars": 2019,
                 "topics": [
                   "analytics",
                   "callflow",
@@ -360,7 +360,7 @@
                 "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "sipvicious",
-                "stars": 1105,
+                "stars": 1106,
                 "topics": [
                   "audit-sip",
                   "hacking-tools",
@@ -391,10 +391,10 @@
                 "language": "Go",
                 "license": "GPL-3.0",
                 "last_commit": "2026-09-24T11:46:40Z",
-                "open_issues": 3,
+                "open_issues": 4,
                 "owner": "miconda",
                 "repo": "sipexer",
-                "stars": 430,
+                "stars": 431,
                 "topics": [
                   "go",
                   "golang",
@@ -491,7 +491,7 @@
                 "open_issues": 32,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8128,
+                "stars": 8129,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -557,7 +557,7 @@
                 "open_issues": 98,
                 "owner": "irontec",
                 "repo": "ivozprovider",
-                "stars": 224,
+                "stars": 225,
                 "topics": [
                   "multitenant",
                   "pbx",
@@ -670,7 +670,7 @@
                 "open_issues": 6,
                 "owner": "webrtcHacks",
                 "repo": "adapter",
-                "stars": 3746,
+                "stars": 3747,
                 "topics": [
                   "polyfill",
                   "webrtc",
@@ -990,7 +990,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-09-27T17:49:33Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "fiorix",
                 "repo": "go-diameter",
                 "stars": 295,
@@ -1087,7 +1087,7 @@
                 "open_issues": 42,
                 "owner": "aiortc",
                 "repo": "aiortc",
-                "stars": 5108,
+                "stars": 5109,
                 "topics": [
                   "asyncio",
                   "data-channel",
@@ -1242,7 +1242,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T19:34:20Z",
-                "open_issues": 4,
+                "open_issues": 7,
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
                 "stars": 5159,
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:33:20.884Z",
+    "last_updated": "2026-10-06T16:29:42.490Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
