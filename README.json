@@ -38,7 +38,7 @@
                 "id": 36228361,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-08T12:29:53Z",
+                "last_commit": "2026-10-09T08:51:25Z",
                 "open_issues": 27,
                 "owner": "BelledonneCommunications",
                 "repo": "flexisip",
@@ -76,11 +76,11 @@
                 "id": 18172227,
                 "language": "Perl",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-08T12:57:42Z",
-                "open_issues": 111,
+                "last_commit": "2026-10-08T19:26:08Z",
+                "open_issues": 110,
                 "owner": "sipwise",
                 "repo": "rtpengine",
-                "stars": 992,
+                "stars": 994,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -97,8 +97,8 @@
                 "id": 18431241,
                 "language": "C++",
                 "license": null,
-                "last_commit": "2026-10-07T05:15:38Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-09T03:35:36Z",
+                "open_issues": 53,
                 "owner": "sems-server",
                 "repo": "sems",
                 "stars": 189,
@@ -129,7 +129,7 @@
                 "open_issues": 309,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14466,
+                "stars": 14469,
                 "topics": [
                   "networking",
                   "server",
@@ -211,7 +211,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-07T16:01:21Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "sipcapture",
                 "repo": "homer",
                 "stars": 2019,
@@ -286,7 +286,7 @@
                 "open_issues": 87,
                 "owner": "webrtc",
                 "repo": "testrtc",
-                "stars": 496,
+                "stars": 495,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -360,7 +360,7 @@
                 "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "sipvicious",
-                "stars": 1107,
+                "stars": 1108,
                 "topics": [
                   "audit-sip",
                   "hacking-tools",
@@ -491,7 +491,7 @@
                 "open_issues": 33,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8129,
+                "stars": 8131,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -553,11 +553,11 @@
                 "id": 70790425,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-02T12:42:00Z",
+                "last_commit": "2026-10-09T08:58:53Z",
                 "open_issues": 98,
                 "owner": "irontec",
                 "repo": "ivozprovider",
-                "stars": 225,
+                "stars": 226,
                 "topics": [
                   "multitenant",
                   "pbx",
@@ -670,7 +670,7 @@
                 "open_issues": 6,
                 "owner": "webrtcHacks",
                 "repo": "adapter",
-                "stars": 3747,
+                "stars": 3746,
                 "topics": [
                   "polyfill",
                   "webrtc",
@@ -763,7 +763,7 @@
                 "open_issues": 152,
                 "owner": "paullouisageneau",
                 "repo": "libdatachannel",
-                "stars": 2757,
+                "stars": 2756,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -823,7 +823,7 @@
                 "id": 3524917,
                 "language": "C++",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-08T14:12:13Z",
+                "last_commit": "2026-10-09T02:50:48Z",
                 "open_issues": 5,
                 "owner": "nilstate",
                 "repo": "icey",
@@ -1087,7 +1087,7 @@
                 "open_issues": 44,
                 "owner": "aiortc",
                 "repo": "aiortc",
-                "stars": 5110,
+                "stars": 5112,
                 "topics": [
                   "asyncio",
                   "data-channel",
@@ -1245,7 +1245,7 @@
                 "open_issues": 7,
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
-                "stars": 5159,
+                "stars": 5160,
                 "topics": [
                   "async",
                   "rtc",
@@ -1343,7 +1343,7 @@
             "open_issues": 3,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4051,
+            "stars": 4053,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1373,7 +1373,7 @@
             "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1016,
+            "stars": 1017,
             "topics": []
           },
           "first_seen": "2026-08-28T21:05:19.418Z"
@@ -1394,7 +1394,7 @@
             "open_issues": 8,
             "owner": "calee0219",
             "repo": "awesome-5g",
-            "stars": 910,
+            "stars": 911,
             "topics": [
               "5g",
               "awesome",
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T17:11:33.749Z",
+    "last_updated": "2026-10-09T16:48:33.203Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
@@ -1507,7 +1507,7 @@
       "open_issues": 13,
       "owner": "rtckit",
       "repo": "awesome-rtc",
-      "stars": 496,
+      "stars": 497,
       "topics": [
         "awesome",
         "awesome-list",
