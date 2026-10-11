@@ -80,7 +80,7 @@
                 "open_issues": 110,
                 "owner": "sipwise",
                 "repo": "rtpengine",
-                "stars": 994,
+                "stars": 995,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -129,7 +129,7 @@
                 "open_issues": 309,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14472,
+                "stars": 14475,
                 "topics": [
                   "networking",
                   "server",
@@ -253,7 +253,7 @@
                 "language": "C",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-05T18:33:42Z",
-                "open_issues": 71,
+                "open_issues": 75,
                 "owner": "irontec",
                 "repo": "sngrep",
                 "stars": 1210,
@@ -641,7 +641,7 @@
                 "open_issues": 128,
                 "owner": "feross",
                 "repo": "simple-peer",
-                "stars": 7798,
+                "stars": 7799,
                 "topics": [
                   "browser",
                   "data-channels",
@@ -1087,7 +1087,7 @@
                 "open_issues": 44,
                 "owner": "aiortc",
                 "repo": "aiortc",
-                "stars": 5114,
+                "stars": 5115,
                 "topics": [
                   "asyncio",
                   "data-channel",
@@ -1241,11 +1241,11 @@
                 "id": 202485012,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T19:34:20Z",
-                "open_issues": 7,
+                "last_commit": "2026-10-11T01:06:26Z",
+                "open_issues": 10,
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
-                "stars": 5160,
+                "stars": 5161,
                 "topics": [
                   "async",
                   "rtc",
@@ -1343,7 +1343,7 @@
             "open_issues": 3,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4054,
+            "stars": 4055,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1373,7 +1373,7 @@
             "open_issues": 1,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1017,
+            "stars": 1018,
             "topics": []
           },
           "first_seen": "2026-08-28T21:05:19.418Z"
@@ -1452,7 +1452,7 @@
             "language": null,
             "license": "GPL-2.0",
             "last_commit": "2026-04-11T16:41:01Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "miconda",
             "repo": "sip-resources",
             "stars": 260,
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:42:15.239Z",
+    "last_updated": "2026-10-11T16:08:22.255Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
