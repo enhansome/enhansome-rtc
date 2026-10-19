@@ -76,11 +76,11 @@
                 "id": 18172227,
                 "language": "Perl",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-16T18:17:36Z",
-                "open_issues": 120,
+                "last_commit": "2026-10-19T14:31:53Z",
+                "open_issues": 119,
                 "owner": "sipwise",
                 "repo": "rtpengine",
-                "stars": 996,
+                "stars": 997,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -129,7 +129,7 @@
                 "open_issues": 310,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14489,
+                "stars": 14490,
                 "topics": [
                   "networking",
                   "server",
@@ -487,11 +487,11 @@
                 "id": 120149974,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-18T13:45:29Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-19T16:45:18Z",
+                "open_issues": 12,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8140,
+                "stars": 8142,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -553,8 +553,8 @@
                 "id": 70790425,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-15T15:52:26Z",
-                "open_issues": 97,
+                "last_commit": "2026-10-19T07:30:24Z",
+                "open_issues": 99,
                 "owner": "irontec",
                 "repo": "ivozprovider",
                 "stars": 226,
@@ -802,7 +802,7 @@
                 "open_issues": 32,
                 "owner": "cisco",
                 "repo": "libsrtp",
-                "stars": 1401,
+                "stars": 1402,
                 "topics": [
                   "libsrtp",
                   "rtp",
@@ -1242,7 +1242,7 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-11T18:08:45Z",
-                "open_issues": 23,
+                "open_issues": 24,
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
                 "stars": 5160,
@@ -1343,7 +1343,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4070,
+            "stars": 4073,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1373,7 +1373,7 @@
             "open_issues": 1,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1023,
+            "stars": 1022,
             "topics": []
           },
           "first_seen": "2026-08-28T21:05:19.418Z"
@@ -1394,7 +1394,7 @@
             "open_issues": 9,
             "owner": "calee0219",
             "repo": "awesome-5g",
-            "stars": 913,
+            "stars": 914,
             "topics": [
               "5g",
               "awesome",
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T13:46:09.790Z",
+    "last_updated": "2026-10-19T16:47:34.674Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
@@ -1504,7 +1504,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-05-18T19:39:18Z",
-      "open_issues": 14,
+      "open_issues": 15,
       "owner": "rtckit",
       "repo": "awesome-rtc",
       "stars": 496,
