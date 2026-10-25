@@ -129,7 +129,7 @@
                 "open_issues": 314,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14504,
+                "stars": 14511,
                 "topics": [
                   "networking",
                   "server",
@@ -214,7 +214,7 @@
                 "open_issues": 1,
                 "owner": "sipcapture",
                 "repo": "homer",
-                "stars": 2023,
+                "stars": 2024,
                 "topics": [
                   "analytics",
                   "callflow",
@@ -487,11 +487,11 @@
                 "id": 120149974,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T13:34:34Z",
-                "open_issues": 26,
+                "last_commit": "2026-10-25T14:03:42Z",
+                "open_issues": 27,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8146,
+                "stars": 8148,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -641,7 +641,7 @@
                 "open_issues": 128,
                 "owner": "feross",
                 "repo": "simple-peer",
-                "stars": 7796,
+                "stars": 7798,
                 "topics": [
                   "browser",
                   "data-channels",
@@ -869,7 +869,7 @@
                 "open_issues": 20,
                 "owner": "creytiv",
                 "repo": "re",
-                "stars": 549,
+                "stars": 550,
                 "topics": [
                   "ice",
                   "sip",
@@ -1087,7 +1087,7 @@
                 "open_issues": 42,
                 "owner": "aiortc",
                 "repo": "aiortc",
-                "stars": 5121,
+                "stars": 5122,
                 "topics": [
                   "asyncio",
                   "data-channel",
@@ -1241,11 +1241,11 @@
                 "id": 202485012,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T18:08:45Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-24T17:44:47Z",
+                "open_issues": 10,
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
-                "stars": 5164,
+                "stars": 5165,
                 "topics": [
                   "async",
                   "rtc",
@@ -1343,7 +1343,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4083,
+            "stars": 4085,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1369,11 +1369,11 @@
             "id": 199304591,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-24T13:16:29Z",
+            "last_commit": "2026-10-24T14:00:22Z",
             "open_issues": 0,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1027,
+            "stars": 1028,
             "topics": []
           },
           "first_seen": "2026-08-28T21:05:19.418Z"
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T13:49:46.824Z",
+    "last_updated": "2026-10-25T14:05:50.793Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
