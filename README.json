@@ -38,7 +38,7 @@
                 "id": 36228361,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-23T11:11:11Z",
+                "last_commit": "2026-10-27T09:38:10Z",
                 "open_issues": 30,
                 "owner": "BelledonneCommunications",
                 "repo": "flexisip",
@@ -76,11 +76,11 @@
                 "id": 18172227,
                 "language": "Perl",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-26T15:48:46Z",
-                "open_issues": 114,
+                "last_commit": "2026-10-27T13:52:23Z",
+                "open_issues": 113,
                 "owner": "sipwise",
                 "repo": "rtpengine",
-                "stars": 1000,
+                "stars": 1001,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -125,11 +125,11 @@
                 "id": 39242894,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-19T23:23:49Z",
-                "open_issues": 314,
+                "last_commit": "2026-10-26T23:24:09Z",
+                "open_issues": 315,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14518,
+                "stars": 14521,
                 "topics": [
                   "networking",
                   "server",
@@ -210,11 +210,11 @@
                 "id": 18214229,
                 "language": "Go",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-26T12:19:52Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-26T22:47:58Z",
+                "open_issues": 1,
                 "owner": "sipcapture",
                 "repo": "homer",
-                "stars": 2024,
+                "stars": 2025,
                 "topics": [
                   "analytics",
                   "callflow",
@@ -360,7 +360,7 @@
                 "open_issues": 0,
                 "owner": "EnableSecurity",
                 "repo": "sipvicious",
-                "stars": 1111,
+                "stars": 1110,
                 "topics": [
                   "audit-sip",
                   "hacking-tools",
@@ -394,7 +394,7 @@
                 "open_issues": 2,
                 "owner": "miconda",
                 "repo": "sipexer",
-                "stars": 433,
+                "stars": 434,
                 "topics": [
                   "go",
                   "golang",
@@ -487,11 +487,11 @@
                 "id": 120149974,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-26T16:28:09Z",
-                "open_issues": 25,
+                "last_commit": "2026-10-27T11:56:34Z",
+                "open_issues": 5,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8150,
+                "stars": 8152,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -641,7 +641,7 @@
                 "open_issues": 128,
                 "owner": "feross",
                 "repo": "simple-peer",
-                "stars": 7798,
+                "stars": 7797,
                 "topics": [
                   "browser",
                   "data-channels",
@@ -760,10 +760,10 @@
                 "language": "C++",
                 "license": "MPL-2.0",
                 "last_commit": "2026-10-07T09:13:36Z",
-                "open_issues": 152,
+                "open_issues": 153,
                 "owner": "paullouisageneau",
                 "repo": "libdatachannel",
-                "stars": 2770,
+                "stars": 2775,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -827,7 +827,7 @@
                 "open_issues": 5,
                 "owner": "nilstate",
                 "repo": "icey",
-                "stars": 1368,
+                "stars": 1369,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -848,7 +848,7 @@
                 "open_issues": 179,
                 "owner": "sctplab",
                 "repo": "usrsctp",
-                "stars": 764,
+                "stars": 763,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -919,7 +919,7 @@
                 "id": 278691632,
                 "language": "C",
                 "license": "LGPL-2.1",
-                "last_commit": "2026-10-24T10:34:57Z",
+                "last_commit": "2026-10-26T18:15:16Z",
                 "open_issues": 130,
                 "owner": "freeswitch",
                 "repo": "sofia-sip",
@@ -1245,7 +1245,7 @@
                 "open_issues": 11,
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
-                "stars": 5166,
+                "stars": 5167,
                 "topics": [
                   "async",
                   "rtc",
@@ -1343,7 +1343,7 @@
             "open_issues": 2,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4088,
+            "stars": 4089,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1373,7 +1373,7 @@
             "open_issues": 1,
             "owner": "ravens",
             "repo": "awesome-telco",
-            "stars": 1032,
+            "stars": 1033,
             "topics": []
           },
           "first_seen": "2026-08-28T21:05:19.418Z"
@@ -1420,7 +1420,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "awesome-rtc-hacking",
-            "stars": 558,
+            "stars": 557,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T16:29:35.250Z",
+    "last_updated": "2026-10-27T15:43:29.528Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
@@ -1507,7 +1507,7 @@
       "open_issues": 17,
       "owner": "rtckit",
       "repo": "awesome-rtc",
-      "stars": 496,
+      "stars": 497,
       "topics": [
         "awesome",
         "awesome-list",
