@@ -80,7 +80,7 @@
                 "open_issues": 114,
                 "owner": "sipwise",
                 "repo": "rtpengine",
-                "stars": 1004,
+                "stars": 1005,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:19.418Z"
@@ -125,8 +125,8 @@
                 "id": 39242894,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-28T05:06:00Z",
-                "open_issues": 316,
+                "last_commit": "2026-10-31T05:08:25Z",
+                "open_issues": 311,
                 "owner": "coturn",
                 "repo": "coturn",
                 "stars": 14532,
@@ -211,10 +211,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-27T22:14:37Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "sipcapture",
                 "repo": "homer",
-                "stars": 2026,
+                "stars": 2027,
                 "topics": [
                   "analytics",
                   "callflow",
@@ -390,7 +390,7 @@
                 "id": 440819916,
                 "language": "Go",
                 "license": "GPL-3.0",
-                "last_commit": "2026-10-30T16:13:45Z",
+                "last_commit": "2026-10-31T13:32:37Z",
                 "open_issues": 2,
                 "owner": "miconda",
                 "repo": "sipexer",
@@ -487,11 +487,11 @@
                 "id": 120149974,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-30T16:06:48Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-31T14:18:45Z",
+                "open_issues": 11,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8155,
+                "stars": 8156,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -641,7 +641,7 @@
                 "open_issues": 128,
                 "owner": "feross",
                 "repo": "simple-peer",
-                "stars": 7798,
+                "stars": 7800,
                 "topics": [
                   "browser",
                   "data-channels",
@@ -763,7 +763,7 @@
                 "open_issues": 157,
                 "owner": "paullouisageneau",
                 "repo": "libdatachannel",
-                "stars": 2778,
+                "stars": 2780,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -990,7 +990,7 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-08T09:43:49Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "fiorix",
                 "repo": "go-diameter",
                 "stars": 297,
@@ -1087,7 +1087,7 @@
                 "open_issues": 44,
                 "owner": "aiortc",
                 "repo": "aiortc",
-                "stars": 5123,
+                "stars": 5124,
                 "topics": [
                   "asyncio",
                   "data-channel",
@@ -1343,7 +1343,7 @@
             "open_issues": 1,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4097,
+            "stars": 4099,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1420,7 +1420,7 @@
             "open_issues": 0,
             "owner": "EnableSecurity",
             "repo": "awesome-rtc-hacking",
-            "stars": 557,
+            "stars": 558,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T16:31:43.169Z",
+    "last_updated": "2026-10-31T15:35:58.852Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
