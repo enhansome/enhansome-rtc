@@ -58,7 +58,7 @@
 
 ### STUN/TURN
 
-* [coturn](https://github.com/coturn/coturn) ⭐ 14,543 | 🐛 315 | 🌐 C | 📅 2026-11-06 - Fully featured TURN/STUN server supporting multiple platforms.
+* [coturn](https://github.com/coturn/coturn) ⭐ 14,544 | 🐛 314 | 🌐 C | 📅 2026-11-08 - Fully featured TURN/STUN server supporting multiple platforms.
 * [STUNTMAN](https://github.com/jselbie/stunserver) ⭐ 1,618 | 🐛 13 | 🌐 C++ | 📅 2026-05-12 - RFC compliant open source STUN implementation.
 
   ## Operations
@@ -67,7 +67,7 @@
 
 ### Monitoring
 
-* [HOMER](https://github.com/sipcapture/homer) ⭐ 2,032 | 🐛 3 | 🌐 Go | 📅 2026-11-06 - Multi-protocol capturing and monitoring framework for RTC.
+* [HOMER](https://github.com/sipcapture/homer) ⭐ 2,032 | 🐛 4 | 🌐 Go | 📅 2026-11-08 - Multi-protocol capturing and monitoring framework for RTC.
 * [sngrep](https://github.com/irontec/sngrep) ⭐ 1,216 | 🐛 69 | 🌐 C | 📅 2026-11-06 - Terminal based SIP flow viewer.
 * [WebRTC Troubleshooter](https://github.com/webrtc/testrtc) ⚠️ Archived - Self-hosted one stop client-side WebRTC troubleshooter.
 * [sipgrep](https://github.com/sipcapture/sipgrep) ⭐ 180 | 🐛 0 | 🌐 C | 📅 2026-08-22 - Console tool for sniffing, capturing and exploring SIP traffic.
@@ -88,7 +88,7 @@
 
 ### Web/API Interfaces
 
-* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,161 | 🐛 15 | 🌐 TypeScript | 📅 2026-11-07 - Telecommunication stack built with Node.js.
+* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,160 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-08 - Telecommunication stack built with Node.js.
 * [Sayna](https://github.com/SaynaAI/sayna) ⭐ 317 | 🐛 1 | 🌐 Rust | 📅 2026-05-31 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
 * [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 227 | 🐛 96 | 🌐 PHP | 📅 2026-11-03 - Multitenant solution for VoIP telephony providers.
 * [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
@@ -129,7 +129,7 @@
 
 * [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,786 | 🐛 157 | 🌐 C++ | 📅 2026-11-03 - Standalone WebRTC DataChannels C++ implementation.
 * [libSRTP](https://github.com/cisco/libsrtp) ⭐ 1,404 | 🐛 31 | 🌐 C | 📅 2026-11-04 - Secure Real-time Transport Protocol (SRTP) library for C.
-* [icey](https://github.com/nilstate/icey) ⭐ 1,370 | 🐛 6 | 🌐 C++ | 📅 2026-10-30 - C++20 WebRTC media runtime with FFmpeg pipeline, Symple signalling, and RFC 5766 TURN.
+* [icey](https://github.com/nilstate/icey) ⭐ 1,369 | 🐛 6 | 🌐 C++ | 📅 2026-10-30 - C++20 WebRTC media runtime with FFmpeg pipeline, Symple signalling, and RFC 5766 TURN.
 * [usrsctp](https://github.com/sctplab/usrsctp) ⭐ 765 | 🐛 182 | 🌐 C | 📅 2026-10-07 - Portable Stream Control Transmission Protocol (SCTP) user-land stack.
 * [libre](https://github.com/creytiv/re) ⭐ 552 | 🐛 20 | 🌐 C | 📅 2024-02-06 - Portable SIP Stack along with companion libraries for media handling, STUN/TURN and a modular user agent.
 * [rawrtc](https://github.com/rawrtc/rawrtc) ⭐ 391 | 🐛 59 | 🌐 C | 📅 2021-12-23 - WebRTC and ORTC library with a small footprint.
@@ -152,7 +152,7 @@
 
 ### Python Libraries
 
-* [aiortc](https://github.com/aiortc/aiortc) ⭐ 5,124 | 🐛 26 | 🌐 Python | 📅 2026-11-07 - WebRTC and ORTC implementation for Python using asyncio.
+* [aiortc](https://github.com/aiortc/aiortc) ⭐ 5,126 | 🐛 26 | 🌐 Python | 📅 2026-11-07 - WebRTC and ORTC implementation for Python using asyncio.
 * [peerjs-python](https://github.com/ambianic/peerjs-python) ⭐ 95 | 🐛 6 | 🌐 Python | 📅 2024-01-31 - Python port of the PeerJS peer-to-peer connection library.
 * [Katari](https://github.com/hyperioxx/Katari) ⭐ 4 | 🐛 4 | 🌐 Python | 📅 2022-12-25 - SIP stack application framework.
 
@@ -196,7 +196,7 @@
 
 ## Related Lists
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,113 | 🐛 1 | 📅 2026-11-03 - Research resources in the 3G/4G/5G Cellular security space.
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,114 | 🐛 1 | 📅 2026-11-03 - Research resources in the 3G/4G/5G Cellular security space.
 * [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 1,034 | 🐛 0 | 🌐 Python | 📅 2026-11-01 - Telco resources and projects.
 * [Awesome 5G](https://github.com/calee0219/awesome-5g) ⭐ 917 | 🐛 10 | 🌐 Shell | 📅 2026-02-03 - 5G frameworks, libraries, software and resources.
 * [Awesome RTC Hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) ⭐ 561 | 🐛 0 | 📅 2026-06-30 - Real Time Communications hacking and penetration testing resources.
@@ -209,4 +209,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
