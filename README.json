@@ -38,7 +38,7 @@
                 "id": 36228361,
                 "language": "C++",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-11-10T16:00:16Z",
+                "last_commit": "2026-11-10T18:00:13Z",
                 "open_issues": 29,
                 "owner": "BelledonneCommunications",
                 "repo": "flexisip",
@@ -129,7 +129,7 @@
                 "open_issues": 311,
                 "owner": "coturn",
                 "repo": "coturn",
-                "stars": 14551,
+                "stars": 14554,
                 "topics": [
                   "networking",
                   "server",
@@ -487,11 +487,11 @@
                 "id": 120149974,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-11-10T14:53:39Z",
-                "open_issues": 12,
+                "last_commit": "2026-11-11T04:09:03Z",
+                "open_issues": 2,
                 "owner": "fonoster",
                 "repo": "fonoster",
-                "stars": 8165,
+                "stars": 8167,
                 "topics": [
                   "cloud",
                   "cloud-communications-platform",
@@ -528,7 +528,7 @@
                 "open_issues": 1,
                 "owner": "SaynaAI",
                 "repo": "sayna",
-                "stars": 317,
+                "stars": 318,
                 "topics": [
                   "ai-agents",
                   "speech-to-text",
@@ -553,7 +553,7 @@
                 "id": 70790425,
                 "language": "PHP",
                 "license": "GPL-3.0",
-                "last_commit": "2026-11-10T15:24:10Z",
+                "last_commit": "2026-11-10T22:15:26Z",
                 "open_issues": 97,
                 "owner": "irontec",
                 "repo": "ivozprovider",
@@ -763,7 +763,7 @@
                 "open_issues": 157,
                 "owner": "paullouisageneau",
                 "repo": "libdatachannel",
-                "stars": 2786,
+                "stars": 2785,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -798,11 +798,11 @@
                 "id": 9087423,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-11-09T06:50:10Z",
-                "open_issues": 28,
+                "last_commit": "2026-11-11T10:24:13Z",
+                "open_issues": 26,
                 "owner": "cisco",
                 "repo": "libsrtp",
-                "stars": 1404,
+                "stars": 1405,
                 "topics": [
                   "libsrtp",
                   "rtp",
@@ -1087,7 +1087,7 @@
                 "open_issues": 26,
                 "owner": "aiortc",
                 "repo": "aiortc",
-                "stars": 5126,
+                "stars": 5127,
                 "topics": [
                   "asyncio",
                   "data-channel",
@@ -1245,7 +1245,7 @@
                 "open_issues": 16,
                 "owner": "webrtc-rs",
                 "repo": "webrtc",
-                "stars": 5182,
+                "stars": 5184,
                 "topics": [
                   "async",
                   "rtc",
@@ -1343,7 +1343,7 @@
             "open_issues": 1,
             "owner": "W00t3k",
             "repo": "Awesome-Cellular-Hacking",
-            "stars": 4120,
+            "stars": 4122,
             "topics": [
               "eviltwin",
               "gsm",
@@ -1495,7 +1495,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T17:29:26.167Z",
+    "last_updated": "2026-11-11T17:42:16.270Z",
     "original_repository_info": {
       "archived": false,
       "description": ":satellite: A curated list of awesome Real Time Communications resources",
