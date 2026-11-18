@@ -35,12 +35,12 @@
 
 ### General Purpose
 
-* [FreeSWITCH](https://github.com/signalwire/freeswitch) ⭐ 5,312 | 🐛 1,284 | 🌐 C | 📅 2026-11-17 - Open source communications server for voice, video, messaging and conferencing.
+* [FreeSWITCH](https://github.com/signalwire/freeswitch) ⭐ 5,314 | 🐛 1,286 | 🌐 C | 📅 2026-11-18 - Open source communications server for voice, video, messaging and conferencing.
 * [Asterisk](https://www.asterisk.org/) - PBX framework supporting multiple protocols and platforms.
 
 ### SIP Servers
 
-* [FreeSBC](https://github.com/rasonyang/freesbc) ⭐ 378 | 🐛 9 | 🌐 Go | 📅 2026-11-17 - Open source SIP/WebRTC edge proxy with an embedded RTP relay for FreeSWITCH and Asterisk.
+* [FreeSBC](https://github.com/rasonyang/freesbc) ⭐ 384 | 🐛 9 | 🌐 Go | 📅 2026-11-18 - Open source SIP/WebRTC edge proxy with an embedded RTP relay for FreeSWITCH and Asterisk.
 * [Sippy B2BUA](https://github.com/sippy/b2bua) ⭐ 203 | 🐛 28 | 🌐 Python | 📅 2026-11-15 - Back-to-back user agent server written in Python.
 * [Flexisip](https://github.com/BelledonneCommunications/flexisip) ⭐ 194 | 🐛 27 | 🌐 C++ | 📅 2026-11-17 - SIP server suite comprising proxy, presence and group chat functions.
 * [P-KISS-SBC](https://github.com/mwolff44/pk-sbc) ⭐ 114 | 🐛 1 | 🌐 Shell | 📅 2026-10-06 - Kamailio and rtpengine-based session border controller for connecting SIP trunks and PBXs.
@@ -50,10 +50,10 @@
 
 ### Media Servers
 
-* [LiveKit](https://github.com/livekit/livekit) ⭐ 22,258 | 🐛 231 | 🌐 Go | 📅 2026-11-17 - Open source WebRTC server and SDK ecosystem for real-time audio, video and data.
-* [MediaMTX](https://github.com/bluenviron/mediamtx) ⭐ 20,713 | 🐛 220 | 🌐 Go | 📅 2026-11-17 - Media server and proxy bridging WebRTC, RTSP, RTMP and SRT streams, with recording and playback.
-* [go2rtc](https://github.com/AlexxIT/go2rtc) ⭐ 14,676 | 🐛 1,084 | 🌐 Go | 📅 2026-11-17 - Camera streaming gateway with WebRTC viewing, RTSP restreaming and two-way audio integrations.
-* [rtpengine](https://github.com/sipwise/rtpengine) ⭐ 1,009 | 🐛 108 | 🌐 Perl | 📅 2026-11-17 - RTP and UDP based media traffic proxy, usable as a kernel module.
+* [LiveKit](https://github.com/livekit/livekit) ⭐ 22,272 | 🐛 231 | 🌐 Go | 📅 2026-11-18 - Open source WebRTC server and SDK ecosystem for real-time audio, video and data.
+* [MediaMTX](https://github.com/bluenviron/mediamtx) ⭐ 20,721 | 🐛 223 | 🌐 Go | 📅 2026-11-18 - Media server and proxy bridging WebRTC, RTSP, RTMP and SRT streams, with recording and playback.
+* [go2rtc](https://github.com/AlexxIT/go2rtc) ⭐ 14,687 | 🐛 1,083 | 🌐 Go | 📅 2026-11-18 - Camera streaming gateway with WebRTC viewing, RTSP restreaming and two-way audio integrations.
+* [rtpengine](https://github.com/sipwise/rtpengine) ⭐ 1,009 | 🐛 107 | 🌐 Perl | 📅 2026-11-18 - RTP and UDP based media traffic proxy, usable as a kernel module.
 * [SEMS](https://github.com/sems-server/sems) ⭐ 189 | 🐛 47 | 🌐 C++ | 📅 2026-10-14 - Open source media and application server for SIP based VoIP services.
 * [Janus](https://janus.conf.meetecho.com) - Lightweight open source, general purpose, WebRTC gateway.
 * [RTPProxy](https://www.rtpproxy.org) - General purpose high performance RTP proxy.
@@ -62,14 +62,14 @@
 
 ### STUN/TURN
 
-* [coturn](https://github.com/coturn/coturn) ⭐ 14,569 | 🐛 311 | 🌐 C | 📅 2026-11-16 - Fully featured TURN/STUN server supporting multiple platforms.
+* [coturn](https://github.com/coturn/coturn) ⭐ 14,576 | 🐛 311 | 🌐 C | 📅 2026-11-16 - Fully featured TURN/STUN server supporting multiple platforms.
 * [STUNTMAN](https://github.com/jselbie/stunserver) ⭐ 1,619 | 🐛 13 | 🌐 C++ | 📅 2026-05-12 - RFC compliant open source STUN implementation.
-* [STUNner](https://github.com/l7mp/stunner) ⭐ 1,072 | 🐛 1 | 🌐 Go | 📅 2026-11-17 - Kubernetes-native STUN/TURN gateway for WebRTC media.
+* [STUNner](https://github.com/l7mp/stunner) ⭐ 1,072 | 🐛 1 | 🌐 Go | 📅 2026-11-18 - Kubernetes-native STUN/TURN gateway for WebRTC media.
 * [eturnal](https://eturnal.net/) - Modern and scalable STUN/TURN server written in Erlang.
 
 ## Clients
 
-* [baresip](https://github.com/baresip/baresip) ⭐ 2,276 | 🐛 8 | 🌐 C | 📅 2026-11-17 - Modular SIP user agent with command-line controls, audio/video calls and pluggable media modules.
+* [baresip](https://github.com/baresip/baresip) ⭐ 2,276 | 🐛 7 | 🌐 C | 📅 2026-11-18 - Modular SIP user agent with command-line controls, audio/video calls and pluggable media modules.
 * [Web SIP Phone](https://github.com/rasonyang/web-sip-phone) ⭐ 8 | 🐛 2 | 🌐 TypeScript | 📅 2026-10-26 - Chrome extension maintaining SIP/WebRTC audio for server-controlled call center agents.
 
 ## Operations
@@ -77,10 +77,10 @@
 ### Monitoring
 
 * [HOMER](https://github.com/sipcapture/homer) ⭐ 2,035 | 🐛 1 | 🌐 Go | 📅 2026-11-16 - Multi-protocol capturing and monitoring framework for RTC.
-* [sngrep](https://github.com/irontec/sngrep) ⭐ 1,218 | 🐛 66 | 🌐 C | 📅 2026-11-16 - Terminal based SIP flow viewer.
+* [sngrep](https://github.com/irontec/sngrep) ⭐ 1,218 | 🐛 66 | 🌐 C | 📅 2026-11-18 - Terminal based SIP flow viewer.
 * [sipgrep](https://github.com/sipcapture/sipgrep) ⭐ 180 | 🐛 0 | 🌐 C | 📅 2026-11-12 - Console tool for sniffing, capturing and exploring SIP traffic.
 * [sip-exporter](https://github.com/aibudaevv/sip-exporter) ⭐ 58 | 🐛 0 | 🌐 Go | 📅 2026-11-17 - Open-source eBPF sensor exporting Prometheus metrics and Grafana dashboards for host-observed IPv4/UDP SIP and correlated RTP/RTCP.
-* [rtcStats](https://github.com/rtcstats/rtcstats) ⭐ 47 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-17 - WebRTC API trace and getStats collection, storage and feature extraction tooling.
+* [rtcStats](https://github.com/rtcstats/rtcstats) ⭐ 47 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-18 - WebRTC API trace and getStats collection, storage and feature extraction tooling.
 * [Trickle ICE](https://webrtc.github.io/samples/src/content/peerconnection/trickle-ice) - Exposes client-side NAT traversal debug data.
 * [SIP3 Community Edition](https://sip3.io/docs/InstallationGuide.html) - Open source SIP/RTP capture, analysis and monitoring components with community deployment tooling.
 
@@ -94,11 +94,11 @@
 
 ### Web/API Interfaces
 
-* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,168 | 🐛 9 | 🌐 TypeScript | 📅 2026-11-17 - Open source platform for programmable voice and voice AI applications.
-* [Kazoo](https://github.com/2600hz/kazoo/tree/4.3) ⭐ 992 | 🐛 29 | 🌐 Erlang | 📅 2025-02-11 - Legacy open source VoIP API platform built on FreeSWITCH and Kamailio, available in the public 4.3 branch.
-* [AI Native Call Center](https://github.com/rasonyang/ai-native-callcenter) ⭐ 675 | 🐛 88 | 🌐 Go | 📅 2026-11-17 - FreeSWITCH-based call center with speech-to-speech AI, agent queues and a web interface/API.
+* [Fonoster](https://github.com/fonoster/fonoster) ⭐ 8,167 | 🐛 5 | 🌐 TypeScript | 📅 2026-11-18 - Open source platform for programmable voice and voice AI applications.
+* [Kazoo](https://github.com/2600hz/kazoo/tree/4.3) ⭐ 993 | 🐛 29 | 🌐 Erlang | 📅 2025-02-11 - Legacy open source VoIP API platform built on FreeSWITCH and Kamailio, available in the public 4.3 branch.
+* [AI Native Call Center](https://github.com/rasonyang/ai-native-callcenter) ⭐ 685 | 🐛 93 | 🌐 Go | 📅 2026-11-18 - FreeSWITCH-based call center with speech-to-speech AI, agent queues and a web interface/API.
 * [Sayna](https://github.com/SaynaAI/sayna) ⭐ 318 | 🐛 1 | 🌐 Rust | 📅 2026-05-31 - Real-time speech infrastructure for voice AI with WebSocket streaming, SIP telephony and pluggable STT/TTS providers.
-* [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 228 | 🐛 99 | 🌐 PHP | 📅 2026-11-17 - Multitenant solution for VoIP telephony providers.
+* [IVOZ Provider](https://github.com/irontec/ivozprovider) ⭐ 228 | 🐛 99 | 🌐 PHP | 📅 2026-11-18 - Multitenant solution for VoIP telephony providers.
 * [Eqivo](https://eqivo.org) - Open source programmable-voice/telephony API platform.
 * [FusionPBX](https://www.fusionpbx.com) - Multitenant system built on top of FreeSWITCH.
 * [FreePBX](https://www.freepbx.org) - Web Manager for Asterisk.
@@ -107,7 +107,7 @@
 
 ### Billing
 
-* [CGRateS](https://github.com/cgrates/cgrates) ⭐ 529 | 🐛 61 | 🌐 Go | 📅 2026-11-14 - Open source rating, charging and billing engine for telecom and ISP services.
+* [CGRateS](https://github.com/cgrates/cgrates) ⭐ 529 | 🐛 61 | 🌐 Go | 📅 2026-11-18 - Open source rating, charging and billing engine for telecom and ISP services.
 
 ## Developer Resources
 
@@ -120,9 +120,9 @@
 
 ### JavaScript Libraries
 
-* [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,796 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26 - WebRTC wrapper for browser media streams and data channels.
+* [simple-peer](https://github.com/feross/simple-peer) ⭐ 7,795 | 🐛 128 | 🌐 JavaScript | 📅 2024-06-26 - WebRTC wrapper for browser media streams and data channels.
 * [adapter.js](https://github.com/webrtcHacks/adapter) ⭐ 3,747 | 🐛 6 | 🌐 JavaScript | 📅 2026-10-13 - JavaScript shim for abstracting WebRTC spec changes and inconsistencies.
-* [werift](https://github.com/shinyoshiaki/werift-webrtc) ⭐ 649 | 🐛 45 | 🌐 TypeScript | 📅 2026-11-17 - TypeScript WebRTC implementation for Node.js with media, data channels and RTP/RTCP APIs.
+* [werift](https://github.com/shinyoshiaki/werift-webrtc) ⭐ 649 | 🐛 47 | 🌐 TypeScript | 📅 2026-11-18 - TypeScript WebRTC implementation for Node.js with media, data channels and RTP/RTCP APIs.
 * [Peerix](https://github.com/meefik/peerix) ⭐ 7 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-30 - TypeScript WebRTC library for peer-to-peer media and data with pluggable signalling drivers.
 * [drachtio](https://drachtio.org) - Node.js SIP server framework.
 * [JsSIP](https://jssip.net/) - Open source JavaScript SIP library with WebRTC media support.
@@ -130,9 +130,9 @@
 
 ### C/C++ Libraries
 
-* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,786 | 🐛 159 | 🌐 C++ | 📅 2026-11-03 - Standalone C/C++ library for WebRTC data channels, media transport and WebSockets.
-* [libSRTP](https://github.com/cisco/libsrtp) ⭐ 1,406 | 🐛 16 | 🌐 C | 📅 2026-11-17 - Secure Real-time Transport Protocol (SRTP) library for C.
-* [icey](https://github.com/auscaster/icey) ⭐ 1,370 | 🐛 7 | 🌐 C++ | 📅 2026-10-30 - C++20 media toolkit combining WebRTC, FFmpeg, asynchronous networking and signalling.
+* [libdatachannel](https://github.com/paullouisageneau/libdatachannel) ⭐ 2,787 | 🐛 160 | 🌐 C++ | 📅 2026-11-03 - Standalone C/C++ library for WebRTC data channels, media transport and WebSockets.
+* [libSRTP](https://github.com/cisco/libsrtp) ⭐ 1,406 | 🐛 17 | 🌐 C | 📅 2026-11-17 - Secure Real-time Transport Protocol (SRTP) library for C.
+* [icey](https://github.com/auscaster/icey) ⭐ 1,369 | 🐛 7 | 🌐 C++ | 📅 2026-10-30 - C++20 media toolkit combining WebRTC, FFmpeg, asynchronous networking and signalling.
 * [usrsctp](https://github.com/sctplab/usrsctp) ⭐ 765 | 🐛 184 | 🌐 C | 📅 2026-10-07 - Portable Stream Control Transmission Protocol (SCTP) user-land stack.
 * [Sofia-SIP](https://github.com/freeswitch/sofia-sip) ⭐ 358 | 🐛 134 | 🌐 C | 📅 2026-10-27 - Open source SIP library used by FreeSWITCH.
 * [libre](https://github.com/baresip/re) ⭐ 195 | 🐛 7 | 🌐 C | 📅 2026-11-16 - Portable SIP, SDP, RTP, SRTP and ICE/STUN/TURN library with asynchronous I/O.
@@ -151,7 +151,7 @@
 
 ### Python Libraries
 
-* [aiortc](https://github.com/aiortc/aiortc) ⭐ 5,129 | 🐛 26 | 🌐 Python | 📅 2026-11-07 - WebRTC and ORTC implementation for Python using asyncio.
+* [aiortc](https://github.com/aiortc/aiortc) ⭐ 5,131 | 🐛 26 | 🌐 Python | 📅 2026-11-07 - WebRTC and ORTC implementation for Python using asyncio.
 
 ### Erlang Libraries
 
@@ -159,23 +159,23 @@
 
 ### Rust Libraries
 
-* [WebRTC.rs](https://github.com/webrtc-rs/webrtc) ⭐ 5,189 | 🐛 17 | 🌐 Rust | 📅 2026-11-07 - Asynchronous WebRTC implementation in Rust with SDP, RTP, RTCP and SRTP support.
+* [WebRTC.rs](https://github.com/webrtc-rs/webrtc) ⭐ 5,190 | 🐛 17 | 🌐 Rust | 📅 2026-11-07 - Asynchronous WebRTC implementation in Rust with SDP, RTP, RTCP and SRTP support.
 
 ### Dart Libraries
 
-* [Flutter WebRTC](https://github.com/flutter-webrtc/flutter-webrtc) ⭐ 4,504 | 🐛 747 | 🌐 C++ | 📅 2026-11-11 - WebRTC bindings for Flutter applications on mobile, desktop and the web.
+* [Flutter WebRTC](https://github.com/flutter-webrtc/flutter-webrtc) ⭐ 4,504 | 🐛 748 | 🌐 C++ | 📅 2026-11-11 - WebRTC bindings for Flutter applications on mobile, desktop and the web.
 * [dart-sip-ua](https://github.com/flutter-webrtc/dart-sip-ua) ⭐ 374 | 🐛 167 | 🌐 Dart | 📅 2026-10-16 - Dart SIP user-agent stack with SIP over WebSocket and WebRTC media support.
 
 ### Media over QUIC
 
 Experimental implementations for live media over QUIC and WebTransport. Supported draft versions and protocol variants differ; check compatibility before combining implementations.
 
-* [moq](https://github.com/moq-dev/moq) ⭐ 1,617 | 🐛 46 | 🌐 Rust | 📅 2026-11-17 - Rust and TypeScript libraries, relay and browser player implementing moq-lite.
+* [moq](https://github.com/moq-dev/moq) ⭐ 1,618 | 🐛 50 | 🌐 Rust | 📅 2026-11-18 - Rust and TypeScript libraries, relay and browser player implementing moq-lite.
 * [moq-rs](https://github.com/cloudflare/moq-rs) ⭐ 186 | 🐛 77 | 🌐 Rust | 📅 2026-11-10 - Rust implementation of Media over QUIC Transport with a relay and sample publishers.
-* [moxygen](https://github.com/facebookexperimental/moxygen) ⭐ 127 | 🐛 18 | 🌐 C++ | 📅 2026-11-17 - C++ Media over QUIC Transport library with a relay, sample applications and interoperability tools.
-* [moqtail](https://github.com/moqtail/moqtail) ⭐ 114 | 🐛 30 | 🌐 TypeScript | 📅 2026-11-17 - Rust and TypeScript Media over QUIC Transport libraries with a relay and example clients.
-* [imquic](https://github.com/meetecho/imquic) ⭐ 82 | 🐛 3 | 🌐 C | 📅 2026-11-17 - Experimental C library for QUIC and WebTransport with RTP over QUIC and Media over QUIC Transport support.
-* [libquicr](https://github.com/Quicr/libquicr) ⭐ 21 | 🐛 39 | 🌐 C++ | 📅 2026-11-17 - C++ Media over QUIC Transport library with publish, subscribe, capture and replay tools.
+* [moxygen](https://github.com/facebookexperimental/moxygen) ⭐ 127 | 🐛 18 | 🌐 C++ | 📅 2026-11-18 - C++ Media over QUIC Transport library with a relay, sample applications and interoperability tools.
+* [moqtail](https://github.com/moqtail/moqtail) ⭐ 114 | 🐛 29 | 🌐 TypeScript | 📅 2026-11-18 - Rust and TypeScript Media over QUIC Transport libraries with a relay and example clients.
+* [imquic](https://github.com/meetecho/imquic) ⭐ 82 | 🐛 3 | 🌐 C | 📅 2026-11-18 - Experimental C library for QUIC and WebTransport with RTP over QUIC and Media over QUIC Transport support.
+* [libquicr](https://github.com/Quicr/libquicr) ⭐ 21 | 🐛 31 | 🌐 C++ | 📅 2026-11-18 - C++ Media over QUIC Transport library with publish, subscribe, capture and replay tools.
 
 ## Blogs
 
@@ -201,7 +201,7 @@ Experimental implementations for live media over QUIC and WebTransport. Supporte
 
 ## Related Lists
 
-* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,133 | 🐛 1 | 📅 2026-11-03 - Research resources in the 3G/4G/5G Cellular security space.
+* [Awesome Cellular Hacking](https://github.com/W00t3k/Awesome-Cellular-Hacking) ⭐ 4,136 | 🐛 1 | 📅 2026-11-03 - Research resources in the 3G/4G/5G Cellular security space.
 * [Awesome Telco](https://github.com/ravens/awesome-telco) ⭐ 1,039 | 🐛 0 | 🌐 Python | 📅 2026-11-15 - Telco resources and projects.
 * [Awesome 5G](https://github.com/calee0219/awesome-5g) ⭐ 918 | 🐛 10 | 🌐 Shell | 📅 2026-02-03 - 5G frameworks, libraries, software and resources.
 * [Awesome RTC Hacking](https://github.com/EnableSecurity/awesome-rtc-hacking) ⭐ 566 | 🐛 0 | 📅 2026-06-30 - Real Time Communications hacking and penetration testing resources.
@@ -215,4 +215,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
